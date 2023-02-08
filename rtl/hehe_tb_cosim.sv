@@ -200,7 +200,7 @@ end
 dpram64 #(
     .SIZE(1<<16), // byte
     .mem_clear(1'b1),
-    .memfile("../test/hex/rv64ui/add.hex")
+    .memfile(`HEX_FILE)
 ) magicmemory(
     .clk(clk),
     .we(s1_we),

@@ -85,4 +85,13 @@ always @(posedge clk) begin
   /* verilator lint_on UNUSED */
 end
 
+`ifdef COSIM
+import "DPI-C" function void btb_update_print(input prev_taken, input int PHT0, input int PHT1, input int PHT2, input int PHT3, input int PHT4, input int PHT5, input int PHT6, input int PHT7, input int PHT8, input int PHT9, input int PHT10, input int PHT11, input int PHT12, input int PHT13, input int PHT14, input int PHT15, input int GHR);
+always@(negedge clk) begin
+  if (prev_branch_in) begin
+    btb_update_print(prev_taken, PHT[0], PHT[1], PHT[2],PHT[3],PHT[4],PHT[5],PHT[6],PHT[7],PHT[8],PHT[9],PHT[10],PHT[11],PHT[12],PHT[13],PHT[14],PHT[15], GHR);
+  end;
+end
+`endif
+
 endmodule

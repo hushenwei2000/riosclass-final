@@ -312,8 +312,10 @@ int main() {
       if (alu_obj->alu.is_branch | alu_obj->alu.is_jump) {
         if (insBuffer_obj->ins_buffer_pc[(insBuffer_obj->ins_buffer_head + 1) % INS_BUFFER_SIZE] ==
             alu_obj->alu.basic_pc_next) {
+          btb_obj->UPDATE_BTB_TAKEN(alu_obj->alu.basic_pc);
+          cout << "预测成功" << endl;
           decode_obj->decode_receive_ins_ready = 1;
-        } else {
+        } else { // 预测失败 predict wrong
           FLUSH();
           decode_obj->decode_receive_ins_ready = 1;
           pc = alu_obj->alu.basic_pc_next;
@@ -327,11 +329,12 @@ int main() {
       Utils::dumpPC(pc);
       icache_obj->Fetch_INS_FROM_ICACHE(pc);
       btb_obj->check_btb = btb_obj->CHECK_BTB(pc);
-      btb_obj->check_btb.btb_hit = 0;
+      // btb_obj->check_btb.btb_hit = 0;
       if (btb_obj->check_btb.btb_hit == 1) {
         cout << "btb hit" << endl;
         pc = btb_obj->check_btb.btb_pc;
       } else {
+        cout << "btb not hit" << endl;
         pc = pc + 4;
       }
     }

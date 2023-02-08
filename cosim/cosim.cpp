@@ -13,12 +13,16 @@ int preg [64] = {0};
 FILE* cosim_log = NULL;
 FILE* cosim_decode_log = NULL;
 FILE* cosim_rcu_log = NULL;
+FILE* cosim_btb_log = NULL;
 long cycles = 0;
 int ROB_SIZE = 4;
+int gshare_hit = 0;
+int gshare_not_hit = 0;
 extern "C"{
     #define coprint(...) fprintf(cosim_log, __VA_ARGS__)
     #define codecodeprint(...) fprintf(cosim_decode_log, __VA_ARGS__)
     #define rcu_co_print(...) fprintf(cosim_rcu_log, __VA_ARGS__)
+    #define btb_co_print(...) fprintf(cosim_btb_log, __VA_ARGS__)
 
     extern void preg_sync(svLogic alu_valid, svLogic lsu_valid, long long alu_data_in, long long lsu_data_in, int alu_address, int lsu_address){
         if(alu_valid & (alu_address != 0)){
@@ -32,13 +36,15 @@ extern "C"{
 
     extern void get_log_handler(){
         cosim_log = fopen("cosim.log", "w+");
-        cosim_decode_log = fopen("decode.log", "w+");
-        cosim_rcu_log = fopen("rcu.log", "w+");
+        cosim_decode_log = fopen("cosim-decode.log", "w+");
+        cosim_rcu_log = fopen("cosim-rcu.log", "w+");
+        cosim_btb_log = fopen("cosim-btb.log", "w+");
     }
     extern void close_log(){
         fclose(cosim_log);
         fclose(cosim_decode_log);
         fclose(cosim_rcu_log);
+        fclose(cosim_btb_log);
     }
 
 
@@ -116,6 +122,20 @@ extern "C"{
             rcu_co_print("\tissue_rob_line:  %d     \n", co_iss_rob_line);
             rcu_co_print("\tcommit_rob_line: %d     \n", co_cm_rob_line);
         }
+    }
+
+    extern void btb_update_print(svLogic prev_taken, int PHT0, int PHT1, int PHT2, int PHT3, int PHT4, int PHT5, int PHT6, int PHT7, int PHT8, int PHT9, int PHT10, int PHT11, int PHT12, int PHT13, int PHT14, int PHT15, int GHR) {
+        if(prev_taken) {
+            btb_co_print("GShare Hit\n");
+            gshare_hit++;
+        }else {
+            gshare_not_hit++;
+        }
+        btb_co_print("-------- GShare dump --------\n");
+        btb_co_print("\tGHR: %d\n", GHR);
+        btb_co_print("%d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d\n", PHT0, PHT1, PHT2, PHT3, PHT4, PHT5, PHT6, PHT7, PHT8, PHT9, PHT10, PHT11, PHT12, PHT13, PHT14, PHT15);
+        btb_co_print("\tHit: %d, Not Hit: %d\n", gshare_hit, gshare_not_hit);
+        btb_co_print("------ GShare dump Over------\n");
     }
 
 }

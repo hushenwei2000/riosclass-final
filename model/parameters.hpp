@@ -19,6 +19,8 @@
 #define LSQ_DEPTH 3
 #define ROB_DEPTH 5
 #define FREE_LIST 39
+#define GSHARE_WIDTH 4
+#define PHT_LEN 16
 
 // typedef
 // Each array index 0 is the lowest bit of number

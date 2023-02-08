@@ -8,7 +8,9 @@ Decode: Decode.hpp Decode.cpp
 	g++ -c Decode.cpp -I "./"
 Rename: Rename.hpp Rename.cpp
 	g++ -c Rename.cpp -I "./"
-BTB: BTB.hpp BTB.cpp
+GShare: GShare.hpp GShare.cpp
+	g++ -c GShare.cpp -I "./"
+BTB: BTB.hpp BTB.cpp GShare.o
 	g++ -c BTB.cpp -I "./"
 ROB: ROB.hpp ROB.cpp Utils.hpp
 	g++ -c ROB.cpp -I "./"
@@ -26,10 +28,10 @@ LSU: LSU.hpp LSU.cpp PRegFile.hpp Rename.hpp Utils.hpp Memory.hpp
 	g++ -c LSU.cpp -I "./"
 CSR: CSR.hpp CSR.cpp PRegFile.hpp Rename.hpp Utils.hpp
 	g++ -c CSR.cpp -I "./"
-main: Utils PRegFile Memory Cache ICache Decode Rename BTB ROB InsBuffer Issue ALU LSU CSR
-	g++ -c main.cpp Utils.cpp PRegFile.cpp Memory.cpp Cache.cpp ICache.cpp Decode.cpp BTB.cpp ROB.cpp InsBuffer.cpp Issue.cpp ALU.cpp LSU.cpp CSR.cpp  -I "./"
-model: main Utils PRegFile Memory Cache ICache Decode Rename BTB ROB InsBuffer Issue ALU LSU CSR
-	g++ Utils.o PRegFile.o Memory.o Cache.o ICache.o Decode.o Rename.o BTB.o ROB.o InsBuffer.o Issue.o ALU.o LSU.o CSR.o main.o  -I "./" -o model.o
+main: Utils PRegFile Memory Cache ICache Decode Rename BTB GShare ROB InsBuffer Issue ALU LSU CSR
+	g++ -c main.cpp Utils.cpp PRegFile.cpp Memory.cpp Cache.cpp ICache.cpp Decode.cpp BTB.cpp GShare.cpp ROB.cpp InsBuffer.cpp Issue.cpp ALU.cpp LSU.cpp CSR.cpp  -I "./"
+model: main Utils PRegFile Memory Cache ICache Decode Rename BTB GShare ROB InsBuffer Issue ALU LSU CSR
+	g++ Utils.o PRegFile.o Memory.o Cache.o ICache.o Decode.o Rename.o BTB.o GShare.o ROB.o InsBuffer.o Issue.o ALU.o LSU.o CSR.o main.o  -I "./" -o model.o
 	./model.o > log
 clean: 
 	rm -rf *.o *.out

@@ -22,8 +22,8 @@ HEX_FILE := "\""$(HEX_DIR)/add.hex"\""
 DEFINE:=SYNTHESIS+COMMIT_LOG
 
 hehe: $(HEX_FILE)
-	$(if $(shell ls simv.daidir | grep timestamp), \
-  rm simv.daidir/.vcs.timestamp)
+	$(if $(shell ls -a simv.daidir | grep timestamp), \
+  rm simv.daidir/.vcs.timestamp*)
 	vcs \
   	+vcs+lic+wait \
 	-kdb					\
@@ -42,8 +42,8 @@ hehe: $(HEX_FILE)
 	./simv 2 >&1 
 
 cosim: $(HEX_FILE)
-	$(if $(shell ls simv.daidir | grep timestamp), \
-  rm simv.daidir/.vcs.timestamp)
+	$(if $(shell ls -a simv.daidir | grep timestamp), \
+  rm simv.daidir/.vcs.timestamp*)
 	vcs \
   	+vcs+lic+wait \
 	-kdb					\
