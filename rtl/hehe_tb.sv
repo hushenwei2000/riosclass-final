@@ -191,17 +191,18 @@ always @(posedge clk) begin
     end
 end
 
+
 dpram64 #(
-    .SIZE(1<<16), // byte
-    .mem_clear(1'b1),
-    .memfile("../test/hex/rv64ui/add.hex")
-) magicmemory(
+    .SIZE(1 << 18),       //byte
+    .AXI_DATA_WIDTH(32),
+    .memfile("/work/stu/dyzhang/projects/riosclass-final/test/rv64ui/test.hex")
+  ) dram_u(
     .clk(clk),
-    .we(s1_we),
-    .din(s1_wdat),
-    .waddr(s1_adr),
-    .raddr(s1_adr),
-    .dout(s1_rdat)
+    .we_d(s1_we),
+    .din_d(s1_wdat),
+    .waddr_d(s1_adr),
+    .raddr_d(s1_adr),
+    .dout_d(s1_rdat)
 );
 
 endmodule
