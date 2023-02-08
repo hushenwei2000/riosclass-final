@@ -31,7 +31,7 @@
 ./core_empty/core_empty.v
 ./bus_arbiter.v
 ./hehe.v
-./dpram64.sv
+./dpram64.v
 ./wb_arb.sv
 ./wb_interconnect.sv
 ./hehe_tb.sv

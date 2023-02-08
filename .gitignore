@@ -61,3 +61,6 @@ ucli.key
 vc_hdrs.h
 
 /rtl/Verdi-SXLog
+*simv*
+rtl/csrc*
+
