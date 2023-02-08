@@ -4,7 +4,7 @@
 
 // PARAM
 #define Maxcycle 2200
-#define BTB_SIZE 4
+#define BTB_SIZE 512
 #define MEM (2 << 20)
 #define RESET_VECTOR 0x000005c
 #define INS_BUFFER_SIZE 9

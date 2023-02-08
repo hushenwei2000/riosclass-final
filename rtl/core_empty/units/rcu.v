@@ -349,8 +349,8 @@ assign rob_iss_is = rob_iss_valid & (iss_load_store & func_load_store_ready|
                                      iss_alu & func_alu_ready
                                     ); //confirm which function unit is ready
 
-assign rob_iss_valid = rob_prs1_p & 
-                       rob_prs2_p & 
+assign rob_iss_valid = (!uses_rs1 | rob_prs1_p) & 
+                       (!uses_rs2 | rob_prs2_p) & 
                        rob_used[iss_rob_line] &           
                        !rob_issued_uncommited[iss_rob_line] &                                                               
                        ((iss_store & (cm_rob_line == iss_rob_line)) | !iss_store) & 
@@ -567,7 +567,7 @@ always@(negedge clk) begin
     log_print(rob_cm_valid, rob_cm_exp_pc, co_store_in, co_fence, rob_cm_mret, rob_cm_wfi, co_use_csr, co_rob_rd, co_csr_iss_ctrl, co_prf_name, co_csr_address);
 end
 always@(negedge clk) begin
-    rob_iss_print(rob_iss_valid, rob_cm_exp_pc, cm_rob_line, iss_rob_line, wr_rob_line);
+    rob_iss_print(rob_iss_valid, rob_op_basic[iss_rob_line][67:36], cm_rob_line, iss_rob_line, wr_rob_line);
 end
 `endif
 

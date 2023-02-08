@@ -1,4 +1,11 @@
 #include "InsBuffer.hpp"
+
+#include <string>
+#include <iostream>
+
+#include "parameters.hpp"
+using namespace std;
+
 void InsBuffer::CHECK_INS_BUFFER() {
   if (ins_buffer_tail == ins_buffer_head) {
     ins_buffer_empty = 1;
@@ -16,6 +23,7 @@ void InsBuffer::WRITE_INS_BUFFER(int ins_pc, long long ins) {
   ins_buffer_tail = (ins_buffer_tail + 1) % INS_BUFFER_SIZE;
   ins_buffer_pc[ins_buffer_tail] = ins_pc;
   ins_buffer_ins[ins_buffer_tail] = ins;
+  this->dump();
 }
 
 void InsBuffer::READ_INS_BUFFER() {
@@ -33,4 +41,8 @@ void InsBuffer::reset() {
   ins_buffer_empty = 1;
   ins_buffer_head = 0;
   ins_buffer_tail = 0;
+}
+
+void InsBuffer::dump() {
+  cout << "-------- InsBuffer size = " << (ins_buffer_tail - ins_buffer_head + INS_BUFFER_SIZE) % INS_BUFFER_SIZE << " --------" << endl;
 }

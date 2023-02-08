@@ -15,4 +15,5 @@ class InsBuffer {
   void WRITE_INS_BUFFER(int ins_pc, long long ins);
   void READ_INS_BUFFER();
   void reset();
+  void dump();
 };

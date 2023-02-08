@@ -310,6 +310,12 @@ int main() {
         }
       }
       if (alu_obj->alu.is_branch | alu_obj->alu.is_jump) {
+        if (alu_obj->alu.basic_pc + 4 == alu_obj->alu.basic_pc_next) {
+          // not taken
+            btb_obj->gshare.prev_taken = false;
+        }else {
+            btb_obj->gshare.prev_taken = true;
+        }
         if (insBuffer_obj->ins_buffer_pc[(insBuffer_obj->ins_buffer_head + 1) % INS_BUFFER_SIZE] ==
             alu_obj->alu.basic_pc_next) {
           btb_obj->UPDATE_BTB_TAKEN(alu_obj->alu.basic_pc);
@@ -329,7 +335,6 @@ int main() {
       Utils::dumpPC(pc);
       icache_obj->Fetch_INS_FROM_ICACHE(pc);
       btb_obj->check_btb = btb_obj->CHECK_BTB(pc);
-      // btb_obj->check_btb.btb_hit = 0;
       if (btb_obj->check_btb.btb_hit == 1) {
         cout << "btb hit" << endl;
         pc = btb_obj->check_btb.btb_pc;

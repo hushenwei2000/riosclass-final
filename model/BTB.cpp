@@ -1,13 +1,16 @@
 #include "BTB.hpp"
-
+#include <iostream>
 CHECK_BTB_S BTB::CHECK_BTB(int pc) {
+  std::cout << "CHECK_BTB! " << pc << "\n";
   gshare.GHR_update();
   check_btb.btb_hit = 0;
   if(gshare.GSahre_predict(pc)) {
+    std::cout << "GSahre_predict!\n";
     for (int i = 0; i < BTB_SIZE; i++) {
       if (btb_pc[i] == pc) {
         check_btb.btb_hit = 1;
         check_btb.btb_pc = btb_pc_next[i];
+        gshare.hitNum++;
         break;
       }
     }
@@ -34,14 +37,13 @@ void BTB::UPDATE_BTB(int update_pc, int update_pc_target) {
     btb_pc_next[btb_update_count % BTB_SIZE] = update_pc_target;
     btb_update_count++;
   }
+  std::cout << "UPDATE_BTB! " << update_pc << ", " << update_pc_target << "\n";
   gshare.notHitNum++;
-  gshare.prev_taken = false;
   gshare.PHT_update(update_pc);
 }
 
 void BTB::UPDATE_BTB_TAKEN(int pc) {
   gshare.hitNum++;
-  gshare.prev_taken = true;
   gshare.PHT_update(pc);
 }
 
