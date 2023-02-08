@@ -114,6 +114,7 @@ extern "C"{
 
     extern void rob_iss_print(svLogic co_issue, int co_pc_in, int co_cm_rob_line, int co_iss_rob_line, int co_wr_rob_line){
         cycles++;
+        rcu_co_print("\tissue_rob_line:  %d     \n", co_iss_rob_line);
         if(co_issue) {
             rcu_co_print("Issue\tcore 0: 0x00000000%08X     \n", co_pc_in);
             rcu_co_print("\tcycles:          %ld    \n", cycles);

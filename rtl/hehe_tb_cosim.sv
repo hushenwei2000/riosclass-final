@@ -19,7 +19,7 @@ initial begin
         $vcdpluson();
 
 		//fsdb wave
-        $fsdbDumpfile("./logs/waves.fsdb");
+        $fsdbDumpfile("./waves_cosim.fsdb");
         $fsdbDumpvars(0, hehe_tb_cosim);
         $fsdbDumpvars("+struct");
         $fsdbDumpvars("+mda");

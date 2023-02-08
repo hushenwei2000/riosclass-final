@@ -63,7 +63,12 @@ cosim: $(HEX_FILE)
 
 
 wave:
+	./simv +dump
 	Verdi-SX -ssf waves.fsdb
+
+wave-cosim:
+	./simv_cosim +dump
+	Verdi-SX -ssf waves_cosim.fsdb
 
 $(HEX_FILE):
 
