@@ -14,6 +14,7 @@ FILE* cosim_log = NULL;
 FILE* cosim_decode_log = NULL;
 FILE* cosim_rcu_log = NULL;
 FILE* cosim_btb_log = NULL;
+FILE* cosim_icache_log = NULL;
 long cycles = 0;
 int ROB_SIZE = 4;
 int gshare_hit = 0;
@@ -23,6 +24,7 @@ extern "C"{
     #define codecodeprint(...) fprintf(cosim_decode_log, __VA_ARGS__)
     #define rcu_co_print(...) fprintf(cosim_rcu_log, __VA_ARGS__)
     #define btb_co_print(...) fprintf(cosim_btb_log, __VA_ARGS__)
+    #define icache_co_print(...) fprintf(cosim_icache_log, __VA_ARGS__)
 
     extern void preg_sync(svLogic alu_valid, svLogic lsu_valid, long long alu_data_in, long long lsu_data_in, int alu_address, int lsu_address){
         if(alu_valid & (alu_address != 0)){
@@ -39,12 +41,14 @@ extern "C"{
         cosim_decode_log = fopen("cosim-decode.log", "w+");
         cosim_rcu_log = fopen("cosim-rcu.log", "w+");
         cosim_btb_log = fopen("cosim-btb.log", "w+");
+        cosim_icache_log = fopen("cosim-icache.log", "w+");
     }
     extern void close_log(){
         fclose(cosim_log);
         fclose(cosim_decode_log);
         fclose(cosim_rcu_log);
         fclose(cosim_btb_log);
+        fclose(cosim_icache_log);
     }
 
 
@@ -112,16 +116,19 @@ extern "C"{
 
     }
 
-    extern void rob_iss_print(svLogic co_issue, int co_pc_in, int co_cm_rob_line, int co_iss_rob_line, int co_wr_rob_line){
+    extern void rob_iss_print(svLogic co_issue, svLogic co_commit, int co_iss_pc, int co_commit_pc, int co_cm_rob_line, int co_iss_rob_line, int co_wr_rob_line){
         cycles++;
-        rcu_co_print("\tissue_rob_line:  %d     \n", co_iss_rob_line);
         if(co_issue) {
-            rcu_co_print("Issue\tcore 0: 0x00000000%08X     \n", co_pc_in);
+            rcu_co_print("Issue\tcore 0: 0x00000000%08X     \n", co_iss_pc);
             rcu_co_print("\tcycles:          %ld    \n", cycles);
             rcu_co_print("\trob_size:        %d     \n", (co_wr_rob_line - co_cm_rob_line + ROB_SIZE) % ROB_SIZE);
-            rcu_co_print("\twrite_rob_line:  %d     \n", co_wr_rob_line);
-            rcu_co_print("\tissue_rob_line:  %d     \n", co_iss_rob_line);
-            rcu_co_print("\tcommit_rob_line: %d     \n", co_cm_rob_line);
+            // rcu_co_print("\twrite_rob_line:  %d     \n", co_wr_rob_line);
+            // rcu_co_print("\tissue_rob_line:  %d     \n", co_iss_rob_line);
+            // rcu_co_print("\tcommit_rob_line: %d     \n", co_cm_rob_line);
+        }else if(co_commit) {
+            rcu_co_print("Commit\tcore 0: 0x00000000%08X     \n", co_commit_pc);
+            rcu_co_print("\tcycles:          %ld    \n", cycles);
+            rcu_co_print("\trob_size:        %d     \n", (co_wr_rob_line - co_cm_rob_line + ROB_SIZE) % ROB_SIZE);
         }
     }
 
@@ -137,6 +144,16 @@ extern "C"{
         btb_co_print("%d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d\n", PHT0, PHT1, PHT2, PHT3, PHT4, PHT5, PHT6, PHT7, PHT8, PHT9, PHT10, PHT11, PHT12, PHT13, PHT14, PHT15);
         btb_co_print("\tHit: %d, Not Hit: %d\n", gshare_hit, gshare_not_hit);
         btb_co_print("------ GShare dump Over------\n");
+    }
+
+    extern void icache_print(int numRead, int numWrite, int numHit, int numMiss) {
+        icache_co_print("-------- CACHE STATISTICS ----------\n");
+        icache_co_print("Num Read: %d\n", numRead);
+        icache_co_print("Num Write: %d\n", numWrite);
+        icache_co_print("Num Hit: %d\n", numHit);
+        icache_co_print("Num Miss: %d\n", numMiss);
+        icache_co_print("Total Cycles: %d\n", cycles);
+        icache_co_print("------ CACHE STATISTICS DONE--------\n");
     }
 
 }

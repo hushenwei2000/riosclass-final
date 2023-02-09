@@ -1,5 +1,8 @@
 #include "BTB.hpp"
 #include <iostream>
+
+BTB::BTB(FILE* f) : gshare(f) {}
+
 CHECK_BTB_S BTB::CHECK_BTB(int pc) {
   std::cout << "CHECK_BTB! " << pc << "\n";
   gshare.GHR_update();

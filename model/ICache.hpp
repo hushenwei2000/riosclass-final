@@ -2,7 +2,7 @@
 
 class ICache : public Cache {
 public:
-    ICache(Memory *memory, Policy policy, Cache *lowerCache = nullptr,
+    ICache(Memory *memory, Policy policy, FILE* f, Cache *lowerCache = nullptr,
         bool writeBack = true, bool writeAllocate = true);
     ~ICache();
     int ins_pc;

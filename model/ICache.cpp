@@ -1,6 +1,6 @@
 #include "ICache.hpp"
 
-ICache::ICache(Memory *memory, Policy policy, Cache *lowerCache, bool writeBack, bool writeAllocate) : Cache(memory, policy, lowerCache, writeBack, writeAllocate) {}
+ICache::ICache(Memory *memory, Policy policy, FILE* f, Cache *lowerCache, bool writeBack, bool writeAllocate) : Cache(memory, policy, f, lowerCache, writeBack, writeAllocate) {}
 
 ICache::~ICache() {};
 

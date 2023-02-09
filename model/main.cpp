@@ -35,6 +35,9 @@ ROB* rob_obj;
 int pc;
 long long cycle = 0;
 FILE* Issue_Log_File = NULL;
+FILE* Cache_Log_File = NULL;
+FILE* Commit_Log_File = NULL;
+FILE* GShare_Log_File = NULL;
 
 void FLUSH() {
   cout << " FLUSH ";
@@ -59,8 +62,6 @@ void RESET() {
   rename_obj->reset();
 
   pc = RESET_VECTOR;
-
-  Issue_Log_File = fopen("issue.log", "w+");
 }
 
 void READ_ELF() {
@@ -208,18 +209,43 @@ void READ_ELF() {
 }
 
 void print_iss_log() {
-  fprintf(Issue_Log_File, "Issue\tcore 0: 0x00000000%08X     \n", pc);
+  fprintf(Issue_Log_File, "Issue\tcore 0: 0x00000000%08X     \n", rob_obj->rob[(rob_obj->rob_head_iss) % ROB_DEPTH].basic_pc);
   fprintf(Issue_Log_File, "\tcycles:          %d     \n", cycle);
   fprintf(Issue_Log_File, "\trob_size:        %d     \n", (rob_obj->rob_tail - rob_obj->rob_head_commit + ROB_DEPTH) % ROB_DEPTH);
-  fprintf(Issue_Log_File, "\twrite_rob_line:  %d     \n", rob_obj->rob_tail);
-  fprintf(Issue_Log_File, "\tissue_rob_line:  %d     \n", rob_obj->rob_head_iss);
-  fprintf(Issue_Log_File, "\tcommit_rob_line: %d     \n", rob_obj->rob_head_commit);
+  // fprintf(Issue_Log_File, "\twrite_rob_line:  %d     \n", rob_obj->rob_tail);
+  // fprintf(Issue_Log_File, "\tissue_rob_line:  %d     \n", rob_obj->rob_head_iss);
+  // fprintf(Issue_Log_File, "\tcommit_rob_line: %d     \n", rob_obj->rob_head_commit);
+  fprintf(Issue_Log_File, "\trob list (unfinish):\n");
+  for(int i = (rob_obj->rob_tail + ROB_DEPTH) % ROB_DEPTH; i > (rob_obj->rob_head_commit + ROB_DEPTH) % ROB_DEPTH; i--) {
+    fprintf(Issue_Log_File, "\t\t%d: 0x00000000%08X %s \n", i, rob_obj->rob[i].basic_pc, rob_obj->getType(i).c_str());
+  }
+}
+
+void print_rcu_commit_log() {
+  fprintf(Issue_Log_File, "Commit\tcore 0: 0x00000000%08X     \n", rob_obj->rob[(rob_obj->rob_head_commit + 1) % ROB_DEPTH].basic_pc);
+  fprintf(Issue_Log_File, "\tcycles:          %d     \n", cycle);
+  fprintf(Issue_Log_File, "\trob_size:        %d     \n", ((rob_obj->rob_tail - rob_obj->rob_head_commit - 1) + ROB_DEPTH) % ROB_DEPTH);
+  // fprintf(Issue_Log_File, "\twrite_rob_line:  %d     \n", rob_obj->rob_tail);
+  // fprintf(Issue_Log_File, "\tissue_rob_line:  %d     \n", rob_obj->rob_head_iss);
+  // fprintf(Issue_Log_File, "\tcommit_rob_line: %d     \n", rob_obj->rob_head_commit);
+  fprintf(Issue_Log_File, "\trob list (unfinish):\n");
+  for(int i = (rob_obj->rob_tail + ROB_DEPTH) % ROB_DEPTH; i > (rob_obj->rob_head_commit + 1 + ROB_DEPTH) % ROB_DEPTH; i--) {
+    fprintf(Issue_Log_File, "\t\t%d: 0x00000000%08X %s \n", i, rob_obj->rob[i].basic_pc, rob_obj->getType(i).c_str());
+  }
+}
+
+void print_commit_log() {
+  fprintf(Commit_Log_File, "Alu_Update_Prf: core 0: 0x00000000%08X     x%d <- %016lX\n", rob_obj->rob[alu_obj->alu.rob_index].basic_pc, alu_obj->alu.basic_rename_rd, alu_obj->alu.alu_result);
 }
 
 int main() {
   cycle = 0;
+  Issue_Log_File = fopen("cosim-issue.log", "w+");
+  Cache_Log_File = fopen("cosim-cache.log", "w+");
+  GShare_Log_File = fopen("cosim-btb.log", "w+");
+  Commit_Log_File = fopen("cosim-commit.log", "w+");
   alu_obj = new ALU();
-  btb_obj = new BTB();
+  btb_obj = new BTB(GShare_Log_File);
   csr_obj = new CSR();
   decode_obj = new Decode();
   fetch_obj = new Fetch();
@@ -228,13 +254,13 @@ int main() {
   lsu_obj = new LSU();
   memory_obj = new Memory();
   Cache::Policy l1Policy;
-  l1Policy.cacheSize = 32 * 1024;
-  l1Policy.blockSize = 64;
+  l1Policy.cacheSize = 32;
+  l1Policy.blockSize = 4;
   l1Policy.blockNum = l1Policy.cacheSize / l1Policy.blockSize;
-  l1Policy.associativity = 8;
+  l1Policy.associativity = 1;
   l1Policy.hitLatency = 0;
   l1Policy.missLatency = 8;
-  icache_obj = new ICache(memory_obj, l1Policy);
+  icache_obj = new ICache(memory_obj, l1Policy, Cache_Log_File);
   pRegFile_obj = new PRegFile();
   rename_obj = new Rename();
   rob_obj = new ROB();
@@ -251,6 +277,7 @@ int main() {
     //   cout << i << ": " << rename_obj->rename_rd[i] << endl;
     // }
     if (rob_obj->rob[(rob_obj->rob_head_commit + 1) % ROB_DEPTH].finish == 1) {
+      print_rcu_commit_log();
       cout << "commit pc ";
       Utils::dumpPC(rob_obj->rob[(rob_obj->rob_head_commit + 1) % ROB_DEPTH].basic_pc);
       rob_obj->COMMIT();
@@ -298,7 +325,7 @@ int main() {
       rob_obj->rob[alu_obj->alu.rob_index].finish = 1;
       if (alu_obj->alu.basic_use_rd) {
         if (alu_obj->alu.basic_rd != 0) {
-          printf("Alu_Update_Prf: core 0: 0x00000000%08X     x%d <- %016lX\n", rob_obj->rob[alu_obj->alu.rob_index].basic_pc, alu_obj->alu.basic_rename_rd, alu_obj->alu.alu_result);
+          print_commit_log();
           pRegFile_obj->Alu_Update_Prf(alu_obj->alu.basic_rename_rd, alu_obj->alu.alu_result);
           rename_obj->rename_rd[alu_obj->alu.basic_rd] = alu_obj->alu.basic_rename_rd;
         }

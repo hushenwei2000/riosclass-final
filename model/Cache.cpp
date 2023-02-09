@@ -9,7 +9,7 @@
 #include <cstdio>
 #include <cstdlib>
 
-Cache::Cache(Memory *memory, Policy policy, Cache *lowerCache,
+Cache::Cache(Memory *memory, Policy policy, FILE* f, Cache *lowerCache,
              bool writeBack, bool writeAllocate) {
   this->referenceCounter = 0;
   this->memory = memory;
@@ -27,6 +27,7 @@ Cache::Cache(Memory *memory, Policy policy, Cache *lowerCache,
   this->statistics.totalCycles = 0;
   this->writeBack = writeBack;
   this->writeAllocate = writeAllocate;
+  this->logFile = f;
 }
 
 bool Cache::inCache(uint32_t addr) {
@@ -58,8 +59,9 @@ std::string Cache::getByte(uint32_t addr, uint32_t *cycles) {
   // If in cache, return directly
   int blockId;
   if ((blockId = this->getBlockId(addr)) != -1) {
+    fprintf(this->logFile, "Hit: %08X\n", addr);
     uint32_t offset = this->getOffset(addr);
-    this->statistics.numHit++;
+    if (addr % 4 == 3) this->statistics.numHit++;
     this->statistics.totalCycles += this->policy.hitLatency;
     this->blocks[blockId].lastReference = this->referenceCounter;
     if (cycles) *cycles = this->policy.hitLatency;
@@ -67,7 +69,7 @@ std::string Cache::getByte(uint32_t addr, uint32_t *cycles) {
   }
 
   // Else, find the data in memory or other level of cache
-  this->statistics.numMiss++;
+  if (addr % 4 == 3) this->statistics.numMiss++;
   this->statistics.totalCycles += this->policy.missLatency;
   this->loadBlockFromLowerLevel(addr, cycles);
 
@@ -155,17 +157,17 @@ void Cache::printInfo(bool verbose) {
 }
 
 void Cache::printStatistics() {
-  printf("-------- CACHE STATISTICS ----------\n");
-  printf("Num Read: %d\n", this->statistics.numRead);
-  printf("Num Write: %d\n", this->statistics.numWrite);
-  printf("Num Hit: %d\n", this->statistics.numHit);
-  printf("Num Miss: %d\n", this->statistics.numMiss);
-  printf("Total Cycles: %llu\n", this->statistics.totalCycles);
+  fprintf(this->logFile, "-------- CACHE STATISTICS ----------\n");
+  fprintf(this->logFile, "Num Read: %d\n", this->statistics.numRead / 4);
+  fprintf(this->logFile, "Num Write: %d\n", this->statistics.numWrite / 4);
+  fprintf(this->logFile, "Num Hit: %d\n", this->statistics.numHit);
+  fprintf(this->logFile, "Num Miss: %d\n", this->statistics.numMiss);
+  fprintf(this->logFile, "Total Cycles: %llu\n", this->statistics.totalCycles);
   if (this->lowerCache != nullptr) {
-    printf("---------- LOWER CACHE ----------\n");
+    fprintf(this->logFile, "---------- LOWER CACHE ----------\n");
     this->lowerCache->printStatistics();
   }
-  printf("------ CACHE STATISTICS DONE--------\n");
+  fprintf(this->logFile, "------ CACHE STATISTICS DONE--------\n");
 }
 
 bool Cache::isPolicyValid() {
@@ -239,8 +241,9 @@ void Cache::loadBlockFromLowerLevel(uint32_t addr, uint32_t *cycles) {
     this->writeBlockToLowerLevel(replaceBlock);
     this->statistics.totalCycles += this->policy.missLatency;
   }
-
+  fprintf(this->logFile, "setBlock: %08X\n", addr);
   this->blocks[replaceId] = b;
+  this->statistics.numWrite += blockSize;
 }
 
 uint32_t Cache::getReplacementBlockId(uint32_t begin, uint32_t end) {

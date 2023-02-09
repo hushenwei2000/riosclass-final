@@ -8,6 +8,8 @@ public:
     bool prev_taken;
     int hitNum;
     int notHitNum;
+    FILE* logFile;
+    GShare(FILE* f);
     void reset();
     bool GSahre_predict(int pc);
     void PHT_update(int pc);

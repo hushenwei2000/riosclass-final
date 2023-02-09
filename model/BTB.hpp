@@ -3,6 +3,7 @@
 #include "GShare.hpp"
 class BTB {
  public:
+  BTB(FILE* f);
   GShare gshare;
   int btb_pc[BTB_SIZE];
   int btb_pc_next[BTB_SIZE];

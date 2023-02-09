@@ -1,5 +1,6 @@
 #pragma once
 #include "parameters.hpp"
+#include<string>
 class ROB {
 public:
     // ROB
@@ -16,4 +17,6 @@ public:
     void IN_ROB(ROB_LINE_S rob_line);
 
     void COMMIT();
+
+    std::string getType(int index);
 };

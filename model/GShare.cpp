@@ -12,6 +12,10 @@ int getSlice(int pc, int l, int r) {
     return ((pc >> r) & ((1 << (l - r + 1)) - 1)) & ((1 << GSHARE_WIDTH) - 1);
 }
 
+GShare::GShare(FILE* f) {
+    logFile = f;
+}
+
 void GShare::reset() {
     for(int i = 0; i < PHT_LEN; i++) {
         PHT[i] = 2;
@@ -40,12 +44,10 @@ void GShare::PHT_update(int pc) {
 }
 
 void GShare::dump() {
-    cout << "-------- GShare dump --------" << endl;
-    cout << "\t GHR: " << GHR << endl << "\t";
+    fprintf(logFile, "-------- GShare dump --------\n");
+    fprintf(logFile, "\t GHR: %d\n", GHR);
     for(int i = 0; i < PHT_LEN; i++) {
-        cout << PHT[i] << ", ";
+        fprintf(logFile, "%d, ", PHT[i]);
     }
-    cout << endl;
-    cout << "\tHit: " << hitNum << ", Not Hit: " << notHitNum << endl;
-    cout << "------ GShare dump Over------" << endl;
+    fprintf(logFile, "\n\tHit: %d, Not Hit: %d\n------ GShare dump Over------\n", hitNum, notHitNum);
 }

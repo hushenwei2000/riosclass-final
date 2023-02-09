@@ -51,7 +51,7 @@ class Cache {
     uint64_t totalCycles;
   };
 
-  Cache(Memory *memory, Policy policy, Cache *lowerCache = nullptr,
+  Cache(Memory *memory, Policy policy, FILE* f, Cache *lowerCache = nullptr,
         bool writeBack = true, bool writeAllocate = true);
 
   bool inCache(uint32_t addr);
@@ -64,6 +64,8 @@ class Cache {
 
   Statistics statistics;
   Memory *memory;
+
+  FILE* logFile;
 
  private:
   uint32_t referenceCounter;

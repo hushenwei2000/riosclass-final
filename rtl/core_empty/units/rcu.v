@@ -553,7 +553,7 @@ assign rob_iss_line_switch = rob_iss_is | rob_iss_skip;
 
 `ifdef COSIM
 import "DPI-C" function void log_print(input reg co_commit,  input int co_pc_in, input reg co_store_in, input reg co_fence, input co_mret, input co_wfi, input reg co_uses_csr, input int co_rob_rd, input reg co_csr_iss_ctrl, input int co_prf_name, input int co_csr_address);
-import "DPI-C" function void rob_iss_print(input reg  co_issue, input int  co_pc_in, input int  co_cm_rob_line, input int  co_iss_rob_line, input int  co_wr_rob_line);
+import "DPI-C" function void rob_iss_print(input reg  co_issue, input reg  co_commit, input int  co_iss_pc, input int  co_commit_pc, input int  co_cm_rob_line, input int  co_iss_rob_line, input int  co_wr_rob_line);
 
 wire [31:0] co_prf_name = {{26{1'b0}}, rob_prd[cm_rob_line]};
 wire co_store_in = rob_op_lsu[cm_rob_line][3];
@@ -567,7 +567,7 @@ always@(negedge clk) begin
     log_print(rob_cm_valid, rob_cm_exp_pc, co_store_in, co_fence, rob_cm_mret, rob_cm_wfi, co_use_csr, co_rob_rd, co_csr_iss_ctrl, co_prf_name, co_csr_address);
 end
 always@(negedge clk) begin
-    rob_iss_print(rob_iss_valid, rob_op_basic[iss_rob_line][67:36], cm_rob_line, iss_rob_line, wr_rob_line);
+    rob_iss_print(rob_iss_valid, rob_cm_valid, rob_op_basic[iss_rob_line][67:36], rob_op_basic[cm_rob_line][67:36], cm_rob_line, iss_rob_line, wr_rob_line);
 end
 `endif
 
