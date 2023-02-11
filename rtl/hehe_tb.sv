@@ -195,7 +195,7 @@ end
 dpram64 #(
     .SIZE(1 << 18),       //byte
     .AXI_DATA_WIDTH(32),
-    .memfile("/work/stu/dyzhang/projects/riosclass-final/test/rv64ui/test.hex")
+    .memfile(`HEX_FILE)
   ) dram_u(
     .clk(clk),
     .we_d(s1_we),

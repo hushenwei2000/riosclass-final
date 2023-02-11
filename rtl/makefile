@@ -14,7 +14,7 @@ FILE_LIST := $(RV_ROOT)/flist.f
 TOP_MODULE := hehe_tb
 TOP_MODULE_COSIM := hehe_tb_cosim
 
-HEX_DIR := $(RV_ROOT)/../test/hex/rv64ui
+HEX_DIR := $(RV_ROOT)/../test-new/build/hex
 HEX_FILE := "\""$(HEX_DIR)/add.hex"\""
 
 # "  \"  "

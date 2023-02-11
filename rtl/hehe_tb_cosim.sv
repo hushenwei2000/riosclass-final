@@ -200,7 +200,7 @@ end
 dpram64 #(
     .SIZE(1 << 18),       //byte
     .AXI_DATA_WIDTH(32),
-    .memfile("/work/stu/swhu/projects/riosclass-final/elf.hex")
+    .memfile(`HEX_FILE)
   ) dram_u(
     .clk(clk),
     .we_d(s1_we),
