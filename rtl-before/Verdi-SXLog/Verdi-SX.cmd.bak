@@ -1,0 +1,113 @@
+simSetSimulator "-vcssv" -exec "/work/stu/swhu/projects/riosclass-final/rtl/simv" \
+           -args "+dump"
+debImport "-dbdir" "/work/stu/swhu/projects/riosclass-final/rtl/simv.daidir"
+debLoadSimResult /work/stu/swhu/projects/riosclass-final/rtl/waves.fsdb
+wvCreateWindow
+srcHBSelect "hehe_tb.hehe_u.l1icache_u" -win $_nTrace1
+srcHBSelect "hehe_tb.hehe_u.l1icache_u" -win $_nTrace1
+srcSetScope -win $_nTrace1 "hehe_tb.hehe_u.l1icache_u" -delim "."
+srcHBSelect "hehe_tb.hehe_u.l1icache_u" -win $_nTrace1
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "wb_cyc_o" -line 51 -pos 1 -win $_nTrace1
+srcAction -pos 50 3 3 -win $_nTrace1 -name "wb_cyc_o" -ctrlKey off
+srcBackwardHistory -win $_nTrace1
+srcHBSelect "hehe_tb.hehe_u.l1icache_u" -win $_nTrace1
+srcAddSelectedToWave -clipboard -win $_nTrace1
+wvDrop -win $_nWave2
+wvSetPosition -win $_nWave2 {("G2" 0)}
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "wb_stb_o" -line 52 -pos 1 -win $_nTrace1
+srcAddSelectedToWave -clipboard -win $_nTrace1
+wvDrop -win $_nWave2
+wvSetPosition -win $_nWave2 {("G3" 0)}
+srcSelect -signal "wb_we_o" -line 53 -pos 1 -win $_nTrace1
+srcDeselectAll -win $_nTrace1
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "wb_adr_o" -line 54 -pos 1 -win $_nTrace1
+srcAddSelectedToWave -clipboard -win $_nTrace1
+wvDrop -win $_nWave2
+wvSetPosition -win $_nWave2 {("G4" 0)}
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "wb_ack_i" -line 57 -pos 1 -win $_nTrace1
+srcAddSelectedToWave -clipboard -win $_nTrace1
+wvDrop -win $_nWave2
+wvSetPosition -win $_nWave2 {("G5" 0)}
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "wb_dat_i" -line 58 -pos 1 -win $_nTrace1
+srcAddSelectedToWave -clipboard -win $_nTrace1
+wvDrop -win $_nWave2
+wvSetPosition -win $_nWave2 {("G6" 0)}
+wvZoomOut -win $_nWave2
+wvZoomOut -win $_nWave2
+wvZoomOut -win $_nWave2
+wvZoomOut -win $_nWave2
+wvZoomOut -win $_nWave2
+wvZoomIn -win $_nWave2
+wvZoomIn -win $_nWave2
+wvZoomIn -win $_nWave2
+wvZoomIn -win $_nWave2
+srcDeselectAll -win $_nTrace1
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "clk" -line 13 -pos 1 -win $_nTrace1
+srcAddSelectedToWave -clipboard -win $_nTrace1
+wvDrop -win $_nWave2
+wvSetPosition -win $_nWave2 {("G6" 0)}
+wvSetPosition -win $_nWave2 {("G5" 1)}
+wvSetPosition -win $_nWave2 {("G5" 0)}
+wvSetPosition -win $_nWave2 {("G4" 1)}
+wvSetPosition -win $_nWave2 {("G4" 0)}
+wvSetPosition -win $_nWave2 {("G3" 1)}
+wvSetPosition -win $_nWave2 {("G3" 0)}
+wvSetPosition -win $_nWave2 {("G2" 1)}
+wvSetPosition -win $_nWave2 {("G2" 0)}
+wvSetPosition -win $_nWave2 {("G1" 1)}
+wvSetPosition -win $_nWave2 {("G1" 0)}
+wvMoveSelected -win $_nWave2
+wvSetPosition -win $_nWave2 {("G1" 0)}
+wvSetPosition -win $_nWave2 {("G1" 1)}
+wvZoomIn -win $_nWave2
+wvZoomIn -win $_nWave2
+wvZoomIn -win $_nWave2
+wvSelectSignal -win $_nWave2 {( "G1" 2 )} 
+wvSetCursor -win $_nWave2 12059617.269642 -snap {("G2" 1)}
+wvSelectSignal -win $_nWave2 {( "G4" 1 )} 
+srcHBSelect "hehe_tb.wb_interconnect_u" -win $_nTrace1
+wvSelectSignal -win $_nWave2 {( "G1" 2 )} 
+wvSetCursor -win $_nWave2 12138832.295064 -snap {("G7" 0)}
+wvSetCursor -win $_nWave2 12148912.166448
+wvSetCursor -win $_nWave2 12149607.329991
+srcHBSelect "hehe_tb.hehe_u.l1icache_u" -win $_nTrace1
+srcSetScope -win $_nTrace1 "hehe_tb.hehe_u.l1icache_u" -delim "."
+srcHBSelect "hehe_tb.hehe_u.l1icache_u" -win $_nTrace1
+wvZoomOut -win $_nWave2
+wvSetCursor -win $_nWave2 12032336.431077
+wvSetCursor -win $_nWave2 12098376.967731
+wvSetCursor -win $_nWave2 12394516.637356
+wvSetCursor -win $_nWave2 12393821.473812
+wvSetCursor -win $_nWave2 12275643.671379
+wvSetCursor -win $_nWave2 12279814.652642
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "wb_cyc_o" -line 51 -pos 1 -win $_nTrace1
+srcAction -pos 50 3 5 -win $_nTrace1 -name "wb_cyc_o" -ctrlKey off
+wvSetCursor -win $_nWave2 12338208.390314
+wvSetCursor -win $_nWave2 12348635.843470
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "refill_hsk" -line 267 -pos 1 -win $_nTrace1
+srcAddSelectedToWave -clipboard -win $_nTrace1
+wvDrop -win $_nWave2
+wvSelectSignal -win $_nWave2 {( "G1" 3 )} 
+wvSelectSignal -win $_nWave2 {( "G3" 1 )} 
+srcSearchString "burst" -win $_nTrace1 -next -case
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "burst" -line 292 -pos 1 -win $_nTrace1
+srcAddSelectedToWave -clipboard -win $_nTrace1
+wvDrop -win $_nWave2
+wvSetCursor -win $_nWave2 12079607.552050
+wvSetCursor -win $_nWave2 12070570.425982
+wvSetCursor -win $_nWave2 12078912.388506
+srcSearchString "mshr" -win $_nTrace1 -next -case
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "mshr_is_full" -line 294 -pos 1 -win $_nTrace1
+srcAddSelectedToWave -clipboard -win $_nTrace1
+wvDrop -win $_nWave2
+debExit

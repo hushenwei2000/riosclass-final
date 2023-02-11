@@ -1,0 +1,90 @@
+@Verdi-SX rc file Version 1.0
+[General]
+saveDB = TRUE
+relativePath = FALSE
+saveSingleView = FALSE
+saveNWaveWinId = 
+VerdiVersion = Verdi_Q-2020.03-SP2
+[KeyNote]
+Line1 = Automatic Backup 0
+Line2 = Save Open Database Information: Yes
+Line3 = Path Option: Absolute Paths
+Line4 = Windows Option: All Windows
+[OneSearch]
+isExisted = TRUE
+[TestBench]
+ConstrViewShow = 0
+InherViewShow = 0
+FSDBMsgShow = 0
+AnnotationShow = 0
+Console = FALSE
+powerDumped = 0
+[fusa]
+fdb_server = 
+fdb_proj = 
+fdb_campaign = 
+fdb_tool = 
+[hb]
+postSimFile = /work/stu/swhu/projects/riosclass-final/rtl/waves.fsdb
+syncTime = 12078912.389
+viewport = 0 27 1920 977 0 0 90 1918
+activeNode = "hehe_tb.hehe_u.l1icache_u"
+activeScope = "hehe_tb.hehe_u.l1icache_u"
+activeFile = "/work/stu/swhu/projects/riosclass-final/rtl/./cache/l1icache_32.v"
+interactiveMode = False
+viewType = Source
+simulatorMode = False
+sourceBeginLine = 273
+baMode = False
+srcLineNum = True
+AutoWrap = True
+IdentifyFalseLogic = False
+syncSignal = False
+traceMode = Hierarchical
+showTraceInSchema = True
+paMode = False
+funcMode = False
+powerAwareAnnot = True
+amsAnnot = True
+traceCrossHier = True
+DnDtraceCrossHierOnly = True
+traceIncTopPort = False
+leadingZero = False
+signalPane = False
+Scope1 = "hehe_tb.hehe_u.l1icache_u"
+Scope2 = "hehe_tb"
+multipleSelection = 1 293 1 0 0
+sdfCheckUndef = FALSE
+simFlow = FALSE
+[hb.design]
+importCmd = "-dbdir" "/work/stu/swhu/projects/riosclass-final/rtl/simv.daidir" 
+invokeDir = /work/stu/swhu/projects/riosclass-final/rtl
+[hb.sourceTab.1]
+scope = hehe_tb.hehe_u.l1icache_u
+File = /work/stu/swhu/projects/riosclass-final/rtl/cache/l1icache_32.v
+Line = 274
+[nMemoryManager]
+WaveformFile = /work/stu/swhu/projects/riosclass-final/rtl/waves.fsdb
+UserActionNum = 0
+nMemWindowNum = 0
+[wave.0]
+viewPort = 0 25 1920 430 241 132
+primaryWindow = TRUE
+SessionFile = /work/stu/swhu/projects/riosclass-final/rtl/Verdi-SXLog/novas_autosave.ses.wave.0
+displayGrid = FALSE
+hierarchicalName = FALSE
+snap = TRUE
+displayLeadingZeros = FALSE
+fixDelta = FALSE
+displayCursorMarker = FALSE
+autoUpdate = FALSE
+highlightGlitchs = FALSE
+waveformSyncCursorMarker = FALSE
+waveformSyncHorizontalRange = FALSE
+waveformSyncVerticalscroll = FALSE
+displayErrors = TRUE
+displayMsgSymbols = TRUE
+showMsgDescriptions = TRUE
+autoFit = FALSE
+displayDeltaY = FALSE
+centerCursor = FALSE

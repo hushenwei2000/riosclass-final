@@ -1,0 +1,68 @@
+Magic 271485
+Revision Verdi_Q-2020.03-SP2
+
+; Window Layout <x> <y> <width> <height> <signalwidth> <valuewidth>
+viewPort 0 25 1920 430 241 132
+
+; File list:
+; openDirFile [-d delimiter] [-s time_offset] [-rf auto_bus_rule_file] path_name file_name
+openDirFile -d / "" "/work/stu/swhu/projects/riosclass-final/rtl/waves.fsdb"
+
+; file time scale:
+; fileTimeScale ### s|ms|us|ns|ps
+
+; signal spacing:
+signalSpacing 5
+
+; windowTimeUnit is used for zoom, cursor & marker
+; waveform viewport range
+zoom 11989931.454918 13047275.204918
+cursor 12078912.38850631751
+marker 0.000000
+
+; user define markers
+; userMarker time_pos marker_name color linestyle
+; visible top row signal index
+top 0
+; marker line index
+markerPos 4
+
+; event list
+; addEvent event_name event_expression
+; curEvent event_name
+
+
+
+COMPLEX_EVENT_BEGIN
+
+
+COMPLEX_EVENT_END
+
+
+
+; toolbar current search type
+; curSTATUS search_type
+curSTATUS ByChange
+
+
+addGroup "G1"
+activeDirFile "" "/work/stu/swhu/projects/riosclass-final/rtl/waves.fsdb"
+addSignal -h 15 /hehe_tb/hehe_u/l1icache_u/clk
+addSignal -h 15 -holdScope refill_hsk
+addSignal -h 15 -holdScope burst
+addSignal -h 15 -holdScope mshr_is_full
+addSignal -h 15 -holdScope wb_cyc_o
+addGroup "G2"
+addSignal -h 15 /hehe_tb/hehe_u/l1icache_u/wb_stb_o
+addGroup "G3"
+addSignal -h 15 /hehe_tb/hehe_u/l1icache_u/wb_adr_o[31:0]
+addGroup "G4"
+addSignal -h 15 /hehe_tb/hehe_u/l1icache_u/wb_ack_i
+addGroup "G5"
+addSignal -h 15 /hehe_tb/hehe_u/l1icache_u/wb_dat_i[31:0]
+addGroup "G6"
+addGroup "G7"
+
+; getSignalForm Scope Hierarchy Status
+; active file of getSignalForm
+
