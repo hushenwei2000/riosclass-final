@@ -1,0 +1,7609 @@
+-------- CACHE STATISTICS ----------
+Num Read: 1
+Num Write: 1
+Num Hit: 0
+Num Miss: 0
+Total Cycles: 1
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 601
+Num Write: 600
+Num Hit: 0
+Num Miss: 1
+Total Cycles: 604
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 602
+Num Write: 601
+Num Hit: 0
+Num Miss: 1
+Total Cycles: 605
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 603
+Num Write: 601
+Num Hit: 0
+Num Miss: 2
+Total Cycles: 609
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 604
+Num Write: 602
+Num Hit: 0
+Num Miss: 2
+Total Cycles: 610
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 605
+Num Write: 602
+Num Hit: 0
+Num Miss: 3
+Total Cycles: 614
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 606
+Num Write: 603
+Num Hit: 0
+Num Miss: 3
+Total Cycles: 615
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 607
+Num Write: 603
+Num Hit: 0
+Num Miss: 4
+Total Cycles: 619
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 608
+Num Write: 604
+Num Hit: 0
+Num Miss: 4
+Total Cycles: 620
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 609
+Num Write: 604
+Num Hit: 0
+Num Miss: 5
+Total Cycles: 624
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 610
+Num Write: 605
+Num Hit: 0
+Num Miss: 5
+Total Cycles: 625
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 611
+Num Write: 605
+Num Hit: 0
+Num Miss: 6
+Total Cycles: 629
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 612
+Num Write: 606
+Num Hit: 0
+Num Miss: 6
+Total Cycles: 630
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 613
+Num Write: 606
+Num Hit: 0
+Num Miss: 7
+Total Cycles: 634
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 614
+Num Write: 607
+Num Hit: 0
+Num Miss: 7
+Total Cycles: 635
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 615
+Num Write: 607
+Num Hit: 0
+Num Miss: 8
+Total Cycles: 639
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 616
+Num Write: 608
+Num Hit: 0
+Num Miss: 8
+Total Cycles: 640
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 617
+Num Write: 608
+Num Hit: 0
+Num Miss: 9
+Total Cycles: 644
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 618
+Num Write: 609
+Num Hit: 0
+Num Miss: 9
+Total Cycles: 645
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 619
+Num Write: 609
+Num Hit: 0
+Num Miss: 10
+Total Cycles: 649
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 620
+Num Write: 610
+Num Hit: 0
+Num Miss: 10
+Total Cycles: 650
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 621
+Num Write: 610
+Num Hit: 0
+Num Miss: 11
+Total Cycles: 654
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 622
+Num Write: 611
+Num Hit: 0
+Num Miss: 11
+Total Cycles: 655
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 623
+Num Write: 611
+Num Hit: 0
+Num Miss: 12
+Total Cycles: 659
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 624
+Num Write: 612
+Num Hit: 0
+Num Miss: 12
+Total Cycles: 660
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 625
+Num Write: 612
+Num Hit: 0
+Num Miss: 13
+Total Cycles: 664
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 626
+Num Write: 613
+Num Hit: 0
+Num Miss: 13
+Total Cycles: 665
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 627
+Num Write: 613
+Num Hit: 0
+Num Miss: 14
+Total Cycles: 669
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 628
+Num Write: 614
+Num Hit: 0
+Num Miss: 14
+Total Cycles: 670
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 629
+Num Write: 614
+Num Hit: 0
+Num Miss: 15
+Total Cycles: 674
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 630
+Num Write: 615
+Num Hit: 0
+Num Miss: 15
+Total Cycles: 675
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 631
+Num Write: 615
+Num Hit: 0
+Num Miss: 16
+Total Cycles: 679
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 632
+Num Write: 616
+Num Hit: 0
+Num Miss: 16
+Total Cycles: 680
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 633
+Num Write: 616
+Num Hit: 0
+Num Miss: 17
+Total Cycles: 684
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 634
+Num Write: 617
+Num Hit: 0
+Num Miss: 17
+Total Cycles: 685
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 635
+Num Write: 617
+Num Hit: 0
+Num Miss: 18
+Total Cycles: 689
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 636
+Num Write: 618
+Num Hit: 0
+Num Miss: 18
+Total Cycles: 690
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 637
+Num Write: 618
+Num Hit: 0
+Num Miss: 19
+Total Cycles: 694
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 638
+Num Write: 619
+Num Hit: 0
+Num Miss: 19
+Total Cycles: 695
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 639
+Num Write: 619
+Num Hit: 0
+Num Miss: 20
+Total Cycles: 699
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 640
+Num Write: 620
+Num Hit: 0
+Num Miss: 20
+Total Cycles: 700
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 641
+Num Write: 620
+Num Hit: 0
+Num Miss: 21
+Total Cycles: 704
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 642
+Num Write: 621
+Num Hit: 0
+Num Miss: 21
+Total Cycles: 705
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 643
+Num Write: 621
+Num Hit: 0
+Num Miss: 22
+Total Cycles: 709
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 644
+Num Write: 622
+Num Hit: 0
+Num Miss: 22
+Total Cycles: 710
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 645
+Num Write: 622
+Num Hit: 0
+Num Miss: 23
+Total Cycles: 714
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 646
+Num Write: 623
+Num Hit: 0
+Num Miss: 23
+Total Cycles: 715
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 647
+Num Write: 623
+Num Hit: 0
+Num Miss: 24
+Total Cycles: 719
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 648
+Num Write: 624
+Num Hit: 0
+Num Miss: 24
+Total Cycles: 720
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 649
+Num Write: 624
+Num Hit: 0
+Num Miss: 25
+Total Cycles: 724
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 650
+Num Write: 625
+Num Hit: 0
+Num Miss: 25
+Total Cycles: 725
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 651
+Num Write: 625
+Num Hit: 0
+Num Miss: 26
+Total Cycles: 729
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 652
+Num Write: 626
+Num Hit: 0
+Num Miss: 26
+Total Cycles: 730
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 653
+Num Write: 626
+Num Hit: 0
+Num Miss: 27
+Total Cycles: 734
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 654
+Num Write: 627
+Num Hit: 0
+Num Miss: 27
+Total Cycles: 735
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 655
+Num Write: 627
+Num Hit: 0
+Num Miss: 28
+Total Cycles: 739
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 656
+Num Write: 628
+Num Hit: 0
+Num Miss: 28
+Total Cycles: 740
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 657
+Num Write: 628
+Num Hit: 0
+Num Miss: 29
+Total Cycles: 744
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 658
+Num Write: 629
+Num Hit: 0
+Num Miss: 29
+Total Cycles: 745
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 659
+Num Write: 629
+Num Hit: 0
+Num Miss: 30
+Total Cycles: 749
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 660
+Num Write: 630
+Num Hit: 0
+Num Miss: 30
+Total Cycles: 750
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 661
+Num Write: 630
+Num Hit: 0
+Num Miss: 31
+Total Cycles: 754
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 662
+Num Write: 631
+Num Hit: 0
+Num Miss: 31
+Total Cycles: 755
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 663
+Num Write: 631
+Num Hit: 0
+Num Miss: 32
+Total Cycles: 759
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 664
+Num Write: 632
+Num Hit: 0
+Num Miss: 32
+Total Cycles: 760
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 665
+Num Write: 632
+Num Hit: 0
+Num Miss: 33
+Total Cycles: 764
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 666
+Num Write: 633
+Num Hit: 0
+Num Miss: 33
+Total Cycles: 765
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 667
+Num Write: 633
+Num Hit: 0
+Num Miss: 34
+Total Cycles: 769
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 668
+Num Write: 634
+Num Hit: 0
+Num Miss: 34
+Total Cycles: 770
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 669
+Num Write: 634
+Num Hit: 0
+Num Miss: 35
+Total Cycles: 774
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 670
+Num Write: 635
+Num Hit: 0
+Num Miss: 35
+Total Cycles: 775
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 671
+Num Write: 635
+Num Hit: 0
+Num Miss: 36
+Total Cycles: 779
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 672
+Num Write: 636
+Num Hit: 0
+Num Miss: 36
+Total Cycles: 780
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 673
+Num Write: 636
+Num Hit: 0
+Num Miss: 37
+Total Cycles: 784
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 674
+Num Write: 637
+Num Hit: 0
+Num Miss: 37
+Total Cycles: 785
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 675
+Num Write: 637
+Num Hit: 0
+Num Miss: 38
+Total Cycles: 789
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 676
+Num Write: 638
+Num Hit: 0
+Num Miss: 38
+Total Cycles: 790
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 677
+Num Write: 638
+Num Hit: 0
+Num Miss: 39
+Total Cycles: 794
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 678
+Num Write: 639
+Num Hit: 0
+Num Miss: 39
+Total Cycles: 795
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 679
+Num Write: 639
+Num Hit: 0
+Num Miss: 40
+Total Cycles: 799
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 680
+Num Write: 640
+Num Hit: 0
+Num Miss: 40
+Total Cycles: 800
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 681
+Num Write: 640
+Num Hit: 0
+Num Miss: 41
+Total Cycles: 804
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 682
+Num Write: 641
+Num Hit: 0
+Num Miss: 41
+Total Cycles: 805
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 683
+Num Write: 641
+Num Hit: 0
+Num Miss: 42
+Total Cycles: 809
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 684
+Num Write: 642
+Num Hit: 0
+Num Miss: 42
+Total Cycles: 810
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 685
+Num Write: 642
+Num Hit: 0
+Num Miss: 43
+Total Cycles: 814
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 686
+Num Write: 643
+Num Hit: 0
+Num Miss: 43
+Total Cycles: 815
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 687
+Num Write: 643
+Num Hit: 0
+Num Miss: 44
+Total Cycles: 819
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 688
+Num Write: 644
+Num Hit: 0
+Num Miss: 44
+Total Cycles: 820
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 689
+Num Write: 644
+Num Hit: 1
+Num Miss: 44
+Total Cycles: 822
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 690
+Num Write: 644
+Num Hit: 1
+Num Miss: 44
+Total Cycles: 823
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 690
+Num Write: 644
+Num Hit: 1
+Num Miss: 45
+Total Cycles: 826
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 691
+Num Write: 645
+Num Hit: 1
+Num Miss: 45
+Total Cycles: 827
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 692
+Num Write: 645
+Num Hit: 1
+Num Miss: 46
+Total Cycles: 831
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 693
+Num Write: 646
+Num Hit: 1
+Num Miss: 46
+Total Cycles: 832
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 694
+Num Write: 646
+Num Hit: 1
+Num Miss: 47
+Total Cycles: 836
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 695
+Num Write: 647
+Num Hit: 1
+Num Miss: 47
+Total Cycles: 837
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 696
+Num Write: 647
+Num Hit: 1
+Num Miss: 48
+Total Cycles: 841
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 697
+Num Write: 648
+Num Hit: 1
+Num Miss: 48
+Total Cycles: 842
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 698
+Num Write: 648
+Num Hit: 1
+Num Miss: 49
+Total Cycles: 846
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 699
+Num Write: 649
+Num Hit: 1
+Num Miss: 49
+Total Cycles: 847
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 700
+Num Write: 649
+Num Hit: 1
+Num Miss: 50
+Total Cycles: 851
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 701
+Num Write: 650
+Num Hit: 1
+Num Miss: 50
+Total Cycles: 852
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 702
+Num Write: 650
+Num Hit: 2
+Num Miss: 50
+Total Cycles: 854
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 703
+Num Write: 650
+Num Hit: 2
+Num Miss: 50
+Total Cycles: 855
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 703
+Num Write: 650
+Num Hit: 2
+Num Miss: 51
+Total Cycles: 858
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 704
+Num Write: 651
+Num Hit: 2
+Num Miss: 51
+Total Cycles: 859
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 705
+Num Write: 651
+Num Hit: 2
+Num Miss: 52
+Total Cycles: 863
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 706
+Num Write: 652
+Num Hit: 2
+Num Miss: 52
+Total Cycles: 864
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 707
+Num Write: 652
+Num Hit: 2
+Num Miss: 53
+Total Cycles: 868
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 708
+Num Write: 653
+Num Hit: 2
+Num Miss: 53
+Total Cycles: 869
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 709
+Num Write: 653
+Num Hit: 2
+Num Miss: 54
+Total Cycles: 873
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 710
+Num Write: 654
+Num Hit: 2
+Num Miss: 54
+Total Cycles: 874
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 711
+Num Write: 654
+Num Hit: 2
+Num Miss: 55
+Total Cycles: 878
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 712
+Num Write: 655
+Num Hit: 2
+Num Miss: 55
+Total Cycles: 879
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 713
+Num Write: 655
+Num Hit: 2
+Num Miss: 56
+Total Cycles: 883
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 714
+Num Write: 656
+Num Hit: 2
+Num Miss: 56
+Total Cycles: 884
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 715
+Num Write: 656
+Num Hit: 3
+Num Miss: 56
+Total Cycles: 886
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 716
+Num Write: 656
+Num Hit: 3
+Num Miss: 56
+Total Cycles: 887
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 716
+Num Write: 656
+Num Hit: 3
+Num Miss: 57
+Total Cycles: 890
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 717
+Num Write: 657
+Num Hit: 3
+Num Miss: 57
+Total Cycles: 891
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 718
+Num Write: 657
+Num Hit: 3
+Num Miss: 58
+Total Cycles: 895
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 719
+Num Write: 658
+Num Hit: 3
+Num Miss: 58
+Total Cycles: 896
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 720
+Num Write: 658
+Num Hit: 3
+Num Miss: 59
+Total Cycles: 900
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 721
+Num Write: 659
+Num Hit: 3
+Num Miss: 59
+Total Cycles: 901
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 722
+Num Write: 659
+Num Hit: 3
+Num Miss: 60
+Total Cycles: 905
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 723
+Num Write: 660
+Num Hit: 3
+Num Miss: 60
+Total Cycles: 906
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 724
+Num Write: 660
+Num Hit: 3
+Num Miss: 61
+Total Cycles: 910
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 725
+Num Write: 661
+Num Hit: 3
+Num Miss: 61
+Total Cycles: 911
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 726
+Num Write: 661
+Num Hit: 3
+Num Miss: 62
+Total Cycles: 915
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 727
+Num Write: 662
+Num Hit: 3
+Num Miss: 62
+Total Cycles: 916
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 728
+Num Write: 662
+Num Hit: 4
+Num Miss: 62
+Total Cycles: 918
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 729
+Num Write: 662
+Num Hit: 4
+Num Miss: 62
+Total Cycles: 919
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 729
+Num Write: 662
+Num Hit: 4
+Num Miss: 63
+Total Cycles: 922
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 730
+Num Write: 663
+Num Hit: 4
+Num Miss: 63
+Total Cycles: 923
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 731
+Num Write: 663
+Num Hit: 4
+Num Miss: 64
+Total Cycles: 927
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 732
+Num Write: 664
+Num Hit: 4
+Num Miss: 64
+Total Cycles: 928
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 733
+Num Write: 664
+Num Hit: 4
+Num Miss: 65
+Total Cycles: 932
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 734
+Num Write: 665
+Num Hit: 4
+Num Miss: 65
+Total Cycles: 933
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 735
+Num Write: 665
+Num Hit: 4
+Num Miss: 66
+Total Cycles: 937
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 736
+Num Write: 666
+Num Hit: 4
+Num Miss: 66
+Total Cycles: 938
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 737
+Num Write: 666
+Num Hit: 4
+Num Miss: 67
+Total Cycles: 942
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 738
+Num Write: 667
+Num Hit: 4
+Num Miss: 67
+Total Cycles: 943
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 739
+Num Write: 667
+Num Hit: 4
+Num Miss: 68
+Total Cycles: 947
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 740
+Num Write: 668
+Num Hit: 4
+Num Miss: 68
+Total Cycles: 948
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 741
+Num Write: 668
+Num Hit: 5
+Num Miss: 68
+Total Cycles: 950
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 742
+Num Write: 668
+Num Hit: 5
+Num Miss: 68
+Total Cycles: 951
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 742
+Num Write: 668
+Num Hit: 5
+Num Miss: 69
+Total Cycles: 954
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 743
+Num Write: 669
+Num Hit: 5
+Num Miss: 69
+Total Cycles: 955
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 744
+Num Write: 669
+Num Hit: 5
+Num Miss: 70
+Total Cycles: 959
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 745
+Num Write: 670
+Num Hit: 5
+Num Miss: 70
+Total Cycles: 960
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 746
+Num Write: 670
+Num Hit: 5
+Num Miss: 71
+Total Cycles: 964
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 747
+Num Write: 671
+Num Hit: 5
+Num Miss: 71
+Total Cycles: 965
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 748
+Num Write: 671
+Num Hit: 5
+Num Miss: 72
+Total Cycles: 969
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 749
+Num Write: 672
+Num Hit: 5
+Num Miss: 72
+Total Cycles: 970
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 750
+Num Write: 672
+Num Hit: 5
+Num Miss: 73
+Total Cycles: 974
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 751
+Num Write: 673
+Num Hit: 5
+Num Miss: 73
+Total Cycles: 975
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 752
+Num Write: 673
+Num Hit: 5
+Num Miss: 74
+Total Cycles: 979
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 753
+Num Write: 674
+Num Hit: 5
+Num Miss: 74
+Total Cycles: 980
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 754
+Num Write: 674
+Num Hit: 5
+Num Miss: 75
+Total Cycles: 984
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 755
+Num Write: 675
+Num Hit: 5
+Num Miss: 75
+Total Cycles: 985
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 756
+Num Write: 675
+Num Hit: 5
+Num Miss: 76
+Total Cycles: 989
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 757
+Num Write: 676
+Num Hit: 5
+Num Miss: 76
+Total Cycles: 990
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 758
+Num Write: 676
+Num Hit: 6
+Num Miss: 76
+Total Cycles: 992
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 759
+Num Write: 676
+Num Hit: 6
+Num Miss: 76
+Total Cycles: 993
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 759
+Num Write: 676
+Num Hit: 6
+Num Miss: 77
+Total Cycles: 996
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 760
+Num Write: 677
+Num Hit: 6
+Num Miss: 77
+Total Cycles: 997
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 761
+Num Write: 677
+Num Hit: 6
+Num Miss: 78
+Total Cycles: 1001
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 762
+Num Write: 678
+Num Hit: 6
+Num Miss: 78
+Total Cycles: 1002
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 763
+Num Write: 678
+Num Hit: 6
+Num Miss: 79
+Total Cycles: 1006
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 764
+Num Write: 679
+Num Hit: 6
+Num Miss: 79
+Total Cycles: 1007
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 765
+Num Write: 679
+Num Hit: 6
+Num Miss: 80
+Total Cycles: 1011
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 766
+Num Write: 680
+Num Hit: 6
+Num Miss: 80
+Total Cycles: 1012
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 767
+Num Write: 680
+Num Hit: 6
+Num Miss: 81
+Total Cycles: 1016
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 768
+Num Write: 681
+Num Hit: 6
+Num Miss: 81
+Total Cycles: 1017
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 769
+Num Write: 681
+Num Hit: 6
+Num Miss: 82
+Total Cycles: 1021
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 770
+Num Write: 682
+Num Hit: 6
+Num Miss: 82
+Total Cycles: 1022
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 771
+Num Write: 682
+Num Hit: 6
+Num Miss: 83
+Total Cycles: 1026
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 772
+Num Write: 683
+Num Hit: 6
+Num Miss: 83
+Total Cycles: 1027
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 773
+Num Write: 683
+Num Hit: 6
+Num Miss: 84
+Total Cycles: 1031
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 774
+Num Write: 684
+Num Hit: 6
+Num Miss: 84
+Total Cycles: 1032
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 775
+Num Write: 684
+Num Hit: 7
+Num Miss: 84
+Total Cycles: 1034
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 776
+Num Write: 684
+Num Hit: 7
+Num Miss: 84
+Total Cycles: 1035
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 776
+Num Write: 684
+Num Hit: 7
+Num Miss: 85
+Total Cycles: 1038
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 777
+Num Write: 685
+Num Hit: 7
+Num Miss: 85
+Total Cycles: 1039
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 778
+Num Write: 685
+Num Hit: 7
+Num Miss: 86
+Total Cycles: 1043
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 779
+Num Write: 686
+Num Hit: 7
+Num Miss: 86
+Total Cycles: 1044
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 780
+Num Write: 686
+Num Hit: 7
+Num Miss: 87
+Total Cycles: 1048
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 781
+Num Write: 687
+Num Hit: 7
+Num Miss: 87
+Total Cycles: 1049
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 782
+Num Write: 687
+Num Hit: 7
+Num Miss: 88
+Total Cycles: 1053
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 783
+Num Write: 688
+Num Hit: 7
+Num Miss: 88
+Total Cycles: 1054
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 784
+Num Write: 688
+Num Hit: 7
+Num Miss: 89
+Total Cycles: 1058
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 785
+Num Write: 689
+Num Hit: 7
+Num Miss: 89
+Total Cycles: 1059
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 786
+Num Write: 689
+Num Hit: 7
+Num Miss: 90
+Total Cycles: 1063
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 787
+Num Write: 690
+Num Hit: 7
+Num Miss: 90
+Total Cycles: 1064
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 788
+Num Write: 690
+Num Hit: 7
+Num Miss: 91
+Total Cycles: 1068
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 789
+Num Write: 691
+Num Hit: 7
+Num Miss: 91
+Total Cycles: 1069
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 790
+Num Write: 691
+Num Hit: 7
+Num Miss: 92
+Total Cycles: 1073
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 791
+Num Write: 692
+Num Hit: 7
+Num Miss: 92
+Total Cycles: 1074
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 792
+Num Write: 692
+Num Hit: 8
+Num Miss: 92
+Total Cycles: 1076
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 793
+Num Write: 692
+Num Hit: 8
+Num Miss: 92
+Total Cycles: 1077
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 793
+Num Write: 692
+Num Hit: 8
+Num Miss: 93
+Total Cycles: 1080
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 794
+Num Write: 693
+Num Hit: 8
+Num Miss: 93
+Total Cycles: 1081
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 795
+Num Write: 693
+Num Hit: 8
+Num Miss: 94
+Total Cycles: 1085
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 796
+Num Write: 694
+Num Hit: 8
+Num Miss: 94
+Total Cycles: 1086
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 797
+Num Write: 694
+Num Hit: 8
+Num Miss: 95
+Total Cycles: 1090
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 798
+Num Write: 695
+Num Hit: 8
+Num Miss: 95
+Total Cycles: 1091
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 799
+Num Write: 695
+Num Hit: 8
+Num Miss: 96
+Total Cycles: 1095
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 800
+Num Write: 696
+Num Hit: 8
+Num Miss: 96
+Total Cycles: 1096
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 801
+Num Write: 696
+Num Hit: 8
+Num Miss: 97
+Total Cycles: 1100
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 802
+Num Write: 697
+Num Hit: 8
+Num Miss: 97
+Total Cycles: 1101
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 803
+Num Write: 697
+Num Hit: 8
+Num Miss: 98
+Total Cycles: 1105
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 804
+Num Write: 698
+Num Hit: 8
+Num Miss: 98
+Total Cycles: 1106
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 805
+Num Write: 698
+Num Hit: 8
+Num Miss: 99
+Total Cycles: 1110
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 806
+Num Write: 699
+Num Hit: 8
+Num Miss: 99
+Total Cycles: 1111
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 807
+Num Write: 699
+Num Hit: 8
+Num Miss: 100
+Total Cycles: 1115
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 808
+Num Write: 700
+Num Hit: 8
+Num Miss: 100
+Total Cycles: 1116
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 809
+Num Write: 700
+Num Hit: 8
+Num Miss: 101
+Total Cycles: 1120
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 810
+Num Write: 701
+Num Hit: 8
+Num Miss: 101
+Total Cycles: 1121
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 811
+Num Write: 701
+Num Hit: 8
+Num Miss: 102
+Total Cycles: 1125
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 812
+Num Write: 702
+Num Hit: 8
+Num Miss: 102
+Total Cycles: 1126
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 813
+Num Write: 702
+Num Hit: 8
+Num Miss: 103
+Total Cycles: 1130
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 814
+Num Write: 703
+Num Hit: 8
+Num Miss: 103
+Total Cycles: 1131
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 815
+Num Write: 703
+Num Hit: 9
+Num Miss: 103
+Total Cycles: 1133
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 816
+Num Write: 703
+Num Hit: 9
+Num Miss: 103
+Total Cycles: 1134
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 816
+Num Write: 703
+Num Hit: 9
+Num Miss: 104
+Total Cycles: 1137
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 817
+Num Write: 704
+Num Hit: 9
+Num Miss: 104
+Total Cycles: 1138
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 818
+Num Write: 704
+Num Hit: 9
+Num Miss: 105
+Total Cycles: 1142
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 819
+Num Write: 705
+Num Hit: 9
+Num Miss: 105
+Total Cycles: 1143
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 820
+Num Write: 705
+Num Hit: 9
+Num Miss: 106
+Total Cycles: 1147
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 821
+Num Write: 706
+Num Hit: 9
+Num Miss: 106
+Total Cycles: 1148
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 822
+Num Write: 706
+Num Hit: 9
+Num Miss: 107
+Total Cycles: 1152
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 823
+Num Write: 707
+Num Hit: 9
+Num Miss: 107
+Total Cycles: 1153
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 824
+Num Write: 707
+Num Hit: 9
+Num Miss: 108
+Total Cycles: 1157
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 825
+Num Write: 708
+Num Hit: 9
+Num Miss: 108
+Total Cycles: 1158
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 826
+Num Write: 708
+Num Hit: 9
+Num Miss: 109
+Total Cycles: 1162
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 827
+Num Write: 709
+Num Hit: 9
+Num Miss: 109
+Total Cycles: 1163
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 828
+Num Write: 709
+Num Hit: 9
+Num Miss: 110
+Total Cycles: 1167
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 829
+Num Write: 710
+Num Hit: 9
+Num Miss: 110
+Total Cycles: 1168
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 830
+Num Write: 710
+Num Hit: 9
+Num Miss: 111
+Total Cycles: 1172
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 831
+Num Write: 711
+Num Hit: 9
+Num Miss: 111
+Total Cycles: 1173
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 832
+Num Write: 711
+Num Hit: 10
+Num Miss: 111
+Total Cycles: 1175
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 833
+Num Write: 711
+Num Hit: 10
+Num Miss: 111
+Total Cycles: 1176
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 833
+Num Write: 711
+Num Hit: 10
+Num Miss: 112
+Total Cycles: 1179
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 834
+Num Write: 712
+Num Hit: 10
+Num Miss: 112
+Total Cycles: 1180
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 835
+Num Write: 712
+Num Hit: 10
+Num Miss: 113
+Total Cycles: 1184
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 836
+Num Write: 713
+Num Hit: 10
+Num Miss: 113
+Total Cycles: 1185
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 837
+Num Write: 713
+Num Hit: 10
+Num Miss: 114
+Total Cycles: 1189
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 838
+Num Write: 714
+Num Hit: 10
+Num Miss: 114
+Total Cycles: 1190
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 839
+Num Write: 714
+Num Hit: 10
+Num Miss: 115
+Total Cycles: 1194
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 840
+Num Write: 715
+Num Hit: 10
+Num Miss: 115
+Total Cycles: 1195
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 841
+Num Write: 715
+Num Hit: 10
+Num Miss: 116
+Total Cycles: 1199
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 842
+Num Write: 716
+Num Hit: 10
+Num Miss: 116
+Total Cycles: 1200
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 843
+Num Write: 716
+Num Hit: 10
+Num Miss: 117
+Total Cycles: 1204
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 844
+Num Write: 717
+Num Hit: 10
+Num Miss: 117
+Total Cycles: 1205
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 845
+Num Write: 717
+Num Hit: 10
+Num Miss: 118
+Total Cycles: 1209
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 846
+Num Write: 718
+Num Hit: 10
+Num Miss: 118
+Total Cycles: 1210
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 847
+Num Write: 718
+Num Hit: 10
+Num Miss: 119
+Total Cycles: 1214
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 848
+Num Write: 719
+Num Hit: 10
+Num Miss: 119
+Total Cycles: 1215
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 849
+Num Write: 719
+Num Hit: 11
+Num Miss: 119
+Total Cycles: 1217
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 850
+Num Write: 719
+Num Hit: 11
+Num Miss: 119
+Total Cycles: 1218
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 850
+Num Write: 719
+Num Hit: 11
+Num Miss: 120
+Total Cycles: 1221
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 851
+Num Write: 720
+Num Hit: 11
+Num Miss: 120
+Total Cycles: 1222
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 852
+Num Write: 720
+Num Hit: 11
+Num Miss: 121
+Total Cycles: 1226
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 853
+Num Write: 721
+Num Hit: 11
+Num Miss: 121
+Total Cycles: 1227
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 854
+Num Write: 721
+Num Hit: 11
+Num Miss: 122
+Total Cycles: 1231
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 855
+Num Write: 722
+Num Hit: 11
+Num Miss: 122
+Total Cycles: 1232
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 856
+Num Write: 722
+Num Hit: 11
+Num Miss: 123
+Total Cycles: 1236
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 857
+Num Write: 723
+Num Hit: 11
+Num Miss: 123
+Total Cycles: 1237
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 858
+Num Write: 723
+Num Hit: 11
+Num Miss: 124
+Total Cycles: 1241
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 859
+Num Write: 724
+Num Hit: 11
+Num Miss: 124
+Total Cycles: 1242
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 860
+Num Write: 724
+Num Hit: 11
+Num Miss: 125
+Total Cycles: 1246
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 861
+Num Write: 725
+Num Hit: 11
+Num Miss: 125
+Total Cycles: 1247
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 862
+Num Write: 725
+Num Hit: 12
+Num Miss: 125
+Total Cycles: 1249
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 863
+Num Write: 725
+Num Hit: 12
+Num Miss: 125
+Total Cycles: 1250
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 863
+Num Write: 725
+Num Hit: 12
+Num Miss: 126
+Total Cycles: 1253
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 864
+Num Write: 726
+Num Hit: 12
+Num Miss: 126
+Total Cycles: 1254
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 865
+Num Write: 726
+Num Hit: 12
+Num Miss: 127
+Total Cycles: 1258
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 866
+Num Write: 727
+Num Hit: 12
+Num Miss: 127
+Total Cycles: 1259
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 867
+Num Write: 727
+Num Hit: 12
+Num Miss: 128
+Total Cycles: 1263
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 868
+Num Write: 728
+Num Hit: 12
+Num Miss: 128
+Total Cycles: 1264
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 869
+Num Write: 728
+Num Hit: 12
+Num Miss: 129
+Total Cycles: 1268
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 870
+Num Write: 729
+Num Hit: 12
+Num Miss: 129
+Total Cycles: 1269
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 871
+Num Write: 729
+Num Hit: 12
+Num Miss: 130
+Total Cycles: 1273
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 872
+Num Write: 730
+Num Hit: 12
+Num Miss: 130
+Total Cycles: 1274
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 873
+Num Write: 730
+Num Hit: 12
+Num Miss: 131
+Total Cycles: 1278
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 874
+Num Write: 731
+Num Hit: 12
+Num Miss: 131
+Total Cycles: 1279
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 875
+Num Write: 731
+Num Hit: 13
+Num Miss: 131
+Total Cycles: 1281
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 876
+Num Write: 731
+Num Hit: 13
+Num Miss: 131
+Total Cycles: 1282
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 876
+Num Write: 731
+Num Hit: 13
+Num Miss: 132
+Total Cycles: 1285
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 877
+Num Write: 732
+Num Hit: 13
+Num Miss: 132
+Total Cycles: 1286
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 878
+Num Write: 732
+Num Hit: 13
+Num Miss: 133
+Total Cycles: 1290
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 879
+Num Write: 733
+Num Hit: 13
+Num Miss: 133
+Total Cycles: 1291
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 880
+Num Write: 733
+Num Hit: 13
+Num Miss: 134
+Total Cycles: 1295
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 881
+Num Write: 734
+Num Hit: 13
+Num Miss: 134
+Total Cycles: 1296
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 882
+Num Write: 734
+Num Hit: 13
+Num Miss: 135
+Total Cycles: 1300
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 883
+Num Write: 735
+Num Hit: 13
+Num Miss: 135
+Total Cycles: 1301
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 884
+Num Write: 735
+Num Hit: 13
+Num Miss: 136
+Total Cycles: 1305
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 885
+Num Write: 736
+Num Hit: 13
+Num Miss: 136
+Total Cycles: 1306
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 886
+Num Write: 736
+Num Hit: 13
+Num Miss: 137
+Total Cycles: 1310
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 887
+Num Write: 737
+Num Hit: 13
+Num Miss: 137
+Total Cycles: 1311
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 888
+Num Write: 737
+Num Hit: 14
+Num Miss: 137
+Total Cycles: 1313
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 889
+Num Write: 737
+Num Hit: 14
+Num Miss: 137
+Total Cycles: 1314
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 889
+Num Write: 737
+Num Hit: 14
+Num Miss: 138
+Total Cycles: 1317
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 890
+Num Write: 738
+Num Hit: 14
+Num Miss: 138
+Total Cycles: 1318
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 891
+Num Write: 738
+Num Hit: 14
+Num Miss: 139
+Total Cycles: 1322
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 892
+Num Write: 739
+Num Hit: 14
+Num Miss: 139
+Total Cycles: 1323
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 893
+Num Write: 739
+Num Hit: 14
+Num Miss: 140
+Total Cycles: 1327
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 894
+Num Write: 740
+Num Hit: 14
+Num Miss: 140
+Total Cycles: 1328
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 895
+Num Write: 740
+Num Hit: 14
+Num Miss: 141
+Total Cycles: 1332
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 896
+Num Write: 741
+Num Hit: 14
+Num Miss: 141
+Total Cycles: 1333
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 897
+Num Write: 741
+Num Hit: 14
+Num Miss: 142
+Total Cycles: 1337
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 898
+Num Write: 742
+Num Hit: 14
+Num Miss: 142
+Total Cycles: 1338
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 899
+Num Write: 742
+Num Hit: 14
+Num Miss: 143
+Total Cycles: 1342
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 900
+Num Write: 743
+Num Hit: 14
+Num Miss: 143
+Total Cycles: 1343
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 901
+Num Write: 743
+Num Hit: 14
+Num Miss: 144
+Total Cycles: 1347
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 902
+Num Write: 744
+Num Hit: 14
+Num Miss: 144
+Total Cycles: 1348
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 903
+Num Write: 744
+Num Hit: 14
+Num Miss: 145
+Total Cycles: 1352
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 904
+Num Write: 745
+Num Hit: 14
+Num Miss: 145
+Total Cycles: 1353
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 905
+Num Write: 745
+Num Hit: 15
+Num Miss: 145
+Total Cycles: 1355
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 906
+Num Write: 745
+Num Hit: 15
+Num Miss: 145
+Total Cycles: 1356
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 906
+Num Write: 745
+Num Hit: 15
+Num Miss: 146
+Total Cycles: 1359
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 907
+Num Write: 746
+Num Hit: 15
+Num Miss: 146
+Total Cycles: 1360
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 908
+Num Write: 746
+Num Hit: 15
+Num Miss: 147
+Total Cycles: 1364
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 909
+Num Write: 747
+Num Hit: 15
+Num Miss: 147
+Total Cycles: 1365
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 910
+Num Write: 747
+Num Hit: 15
+Num Miss: 148
+Total Cycles: 1369
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 911
+Num Write: 748
+Num Hit: 15
+Num Miss: 148
+Total Cycles: 1370
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 912
+Num Write: 748
+Num Hit: 15
+Num Miss: 149
+Total Cycles: 1374
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 913
+Num Write: 749
+Num Hit: 15
+Num Miss: 149
+Total Cycles: 1375
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 914
+Num Write: 749
+Num Hit: 15
+Num Miss: 150
+Total Cycles: 1379
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 915
+Num Write: 750
+Num Hit: 15
+Num Miss: 150
+Total Cycles: 1380
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 916
+Num Write: 750
+Num Hit: 15
+Num Miss: 151
+Total Cycles: 1384
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 917
+Num Write: 751
+Num Hit: 15
+Num Miss: 151
+Total Cycles: 1385
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 918
+Num Write: 751
+Num Hit: 16
+Num Miss: 151
+Total Cycles: 1387
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 919
+Num Write: 751
+Num Hit: 16
+Num Miss: 151
+Total Cycles: 1388
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 919
+Num Write: 751
+Num Hit: 16
+Num Miss: 152
+Total Cycles: 1391
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 920
+Num Write: 752
+Num Hit: 16
+Num Miss: 152
+Total Cycles: 1392
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 921
+Num Write: 752
+Num Hit: 16
+Num Miss: 153
+Total Cycles: 1396
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 922
+Num Write: 753
+Num Hit: 16
+Num Miss: 153
+Total Cycles: 1397
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 923
+Num Write: 753
+Num Hit: 16
+Num Miss: 154
+Total Cycles: 1401
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 924
+Num Write: 754
+Num Hit: 16
+Num Miss: 154
+Total Cycles: 1402
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 925
+Num Write: 754
+Num Hit: 16
+Num Miss: 155
+Total Cycles: 1406
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 926
+Num Write: 755
+Num Hit: 16
+Num Miss: 155
+Total Cycles: 1407
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 927
+Num Write: 755
+Num Hit: 16
+Num Miss: 156
+Total Cycles: 1411
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 928
+Num Write: 756
+Num Hit: 16
+Num Miss: 156
+Total Cycles: 1412
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 929
+Num Write: 756
+Num Hit: 16
+Num Miss: 157
+Total Cycles: 1416
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 930
+Num Write: 757
+Num Hit: 16
+Num Miss: 157
+Total Cycles: 1417
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 931
+Num Write: 757
+Num Hit: 17
+Num Miss: 157
+Total Cycles: 1419
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 932
+Num Write: 757
+Num Hit: 17
+Num Miss: 157
+Total Cycles: 1420
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 932
+Num Write: 757
+Num Hit: 17
+Num Miss: 158
+Total Cycles: 1423
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 933
+Num Write: 758
+Num Hit: 17
+Num Miss: 158
+Total Cycles: 1424
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 934
+Num Write: 758
+Num Hit: 17
+Num Miss: 159
+Total Cycles: 1428
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 935
+Num Write: 759
+Num Hit: 17
+Num Miss: 159
+Total Cycles: 1429
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 936
+Num Write: 759
+Num Hit: 17
+Num Miss: 160
+Total Cycles: 1433
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 937
+Num Write: 760
+Num Hit: 17
+Num Miss: 160
+Total Cycles: 1434
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 938
+Num Write: 760
+Num Hit: 17
+Num Miss: 161
+Total Cycles: 1438
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 939
+Num Write: 761
+Num Hit: 17
+Num Miss: 161
+Total Cycles: 1439
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 940
+Num Write: 761
+Num Hit: 17
+Num Miss: 162
+Total Cycles: 1443
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 941
+Num Write: 762
+Num Hit: 17
+Num Miss: 162
+Total Cycles: 1444
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 942
+Num Write: 762
+Num Hit: 18
+Num Miss: 162
+Total Cycles: 1446
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 943
+Num Write: 762
+Num Hit: 18
+Num Miss: 162
+Total Cycles: 1447
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 943
+Num Write: 762
+Num Hit: 18
+Num Miss: 163
+Total Cycles: 1450
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 944
+Num Write: 763
+Num Hit: 18
+Num Miss: 163
+Total Cycles: 1451
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 945
+Num Write: 763
+Num Hit: 18
+Num Miss: 164
+Total Cycles: 1455
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 946
+Num Write: 764
+Num Hit: 18
+Num Miss: 164
+Total Cycles: 1456
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 947
+Num Write: 764
+Num Hit: 18
+Num Miss: 165
+Total Cycles: 1460
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 948
+Num Write: 765
+Num Hit: 18
+Num Miss: 165
+Total Cycles: 1461
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 949
+Num Write: 765
+Num Hit: 18
+Num Miss: 166
+Total Cycles: 1465
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 950
+Num Write: 766
+Num Hit: 18
+Num Miss: 166
+Total Cycles: 1466
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 951
+Num Write: 766
+Num Hit: 18
+Num Miss: 167
+Total Cycles: 1470
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 952
+Num Write: 767
+Num Hit: 18
+Num Miss: 167
+Total Cycles: 1471
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 953
+Num Write: 767
+Num Hit: 18
+Num Miss: 168
+Total Cycles: 1475
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 954
+Num Write: 768
+Num Hit: 18
+Num Miss: 168
+Total Cycles: 1476
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 955
+Num Write: 768
+Num Hit: 18
+Num Miss: 169
+Total Cycles: 1480
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 956
+Num Write: 769
+Num Hit: 18
+Num Miss: 169
+Total Cycles: 1481
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 957
+Num Write: 769
+Num Hit: 18
+Num Miss: 170
+Total Cycles: 1485
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 958
+Num Write: 770
+Num Hit: 18
+Num Miss: 170
+Total Cycles: 1486
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 959
+Num Write: 770
+Num Hit: 19
+Num Miss: 170
+Total Cycles: 1488
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 960
+Num Write: 770
+Num Hit: 19
+Num Miss: 170
+Total Cycles: 1489
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 960
+Num Write: 770
+Num Hit: 20
+Num Miss: 170
+Total Cycles: 1490
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 961
+Num Write: 770
+Num Hit: 20
+Num Miss: 170
+Total Cycles: 1491
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 961
+Num Write: 770
+Num Hit: 21
+Num Miss: 170
+Total Cycles: 1492
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 962
+Num Write: 770
+Num Hit: 21
+Num Miss: 170
+Total Cycles: 1493
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 962
+Num Write: 770
+Num Hit: 22
+Num Miss: 170
+Total Cycles: 1494
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 963
+Num Write: 770
+Num Hit: 22
+Num Miss: 170
+Total Cycles: 1495
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 963
+Num Write: 770
+Num Hit: 23
+Num Miss: 170
+Total Cycles: 1496
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 964
+Num Write: 770
+Num Hit: 23
+Num Miss: 170
+Total Cycles: 1497
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 964
+Num Write: 770
+Num Hit: 24
+Num Miss: 170
+Total Cycles: 1498
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 965
+Num Write: 770
+Num Hit: 24
+Num Miss: 170
+Total Cycles: 1499
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 965
+Num Write: 770
+Num Hit: 25
+Num Miss: 170
+Total Cycles: 1500
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 966
+Num Write: 770
+Num Hit: 25
+Num Miss: 170
+Total Cycles: 1501
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 966
+Num Write: 770
+Num Hit: 26
+Num Miss: 170
+Total Cycles: 1502
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 967
+Num Write: 770
+Num Hit: 26
+Num Miss: 170
+Total Cycles: 1503
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 967
+Num Write: 770
+Num Hit: 26
+Num Miss: 171
+Total Cycles: 1506
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 968
+Num Write: 771
+Num Hit: 26
+Num Miss: 171
+Total Cycles: 1507
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 969
+Num Write: 771
+Num Hit: 26
+Num Miss: 172
+Total Cycles: 1511
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 970
+Num Write: 772
+Num Hit: 26
+Num Miss: 172
+Total Cycles: 1512
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 971
+Num Write: 772
+Num Hit: 26
+Num Miss: 173
+Total Cycles: 1516
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 972
+Num Write: 773
+Num Hit: 26
+Num Miss: 173
+Total Cycles: 1517
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 973
+Num Write: 773
+Num Hit: 27
+Num Miss: 173
+Total Cycles: 1519
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 974
+Num Write: 773
+Num Hit: 27
+Num Miss: 173
+Total Cycles: 1520
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 974
+Num Write: 773
+Num Hit: 27
+Num Miss: 174
+Total Cycles: 1523
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 975
+Num Write: 774
+Num Hit: 27
+Num Miss: 174
+Total Cycles: 1524
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 976
+Num Write: 774
+Num Hit: 27
+Num Miss: 175
+Total Cycles: 1528
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 977
+Num Write: 775
+Num Hit: 27
+Num Miss: 175
+Total Cycles: 1529
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 978
+Num Write: 775
+Num Hit: 27
+Num Miss: 176
+Total Cycles: 1533
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 979
+Num Write: 776
+Num Hit: 27
+Num Miss: 176
+Total Cycles: 1534
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 980
+Num Write: 776
+Num Hit: 27
+Num Miss: 177
+Total Cycles: 1538
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 981
+Num Write: 777
+Num Hit: 27
+Num Miss: 177
+Total Cycles: 1539
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 982
+Num Write: 777
+Num Hit: 27
+Num Miss: 178
+Total Cycles: 1543
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 983
+Num Write: 778
+Num Hit: 27
+Num Miss: 178
+Total Cycles: 1544
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 984
+Num Write: 778
+Num Hit: 27
+Num Miss: 179
+Total Cycles: 1548
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 985
+Num Write: 779
+Num Hit: 27
+Num Miss: 179
+Total Cycles: 1549
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 986
+Num Write: 779
+Num Hit: 27
+Num Miss: 180
+Total Cycles: 1553
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 987
+Num Write: 780
+Num Hit: 27
+Num Miss: 180
+Total Cycles: 1554
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 988
+Num Write: 780
+Num Hit: 27
+Num Miss: 181
+Total Cycles: 1558
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 989
+Num Write: 781
+Num Hit: 27
+Num Miss: 181
+Total Cycles: 1559
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 990
+Num Write: 781
+Num Hit: 27
+Num Miss: 182
+Total Cycles: 1563
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 991
+Num Write: 782
+Num Hit: 27
+Num Miss: 182
+Total Cycles: 1564
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 992
+Num Write: 782
+Num Hit: 28
+Num Miss: 182
+Total Cycles: 1566
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 993
+Num Write: 782
+Num Hit: 28
+Num Miss: 182
+Total Cycles: 1567
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 993
+Num Write: 782
+Num Hit: 29
+Num Miss: 182
+Total Cycles: 1568
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 994
+Num Write: 782
+Num Hit: 29
+Num Miss: 182
+Total Cycles: 1569
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 994
+Num Write: 782
+Num Hit: 30
+Num Miss: 182
+Total Cycles: 1570
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 995
+Num Write: 782
+Num Hit: 30
+Num Miss: 182
+Total Cycles: 1571
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 995
+Num Write: 782
+Num Hit: 31
+Num Miss: 182
+Total Cycles: 1572
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 996
+Num Write: 782
+Num Hit: 31
+Num Miss: 182
+Total Cycles: 1573
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 996
+Num Write: 782
+Num Hit: 32
+Num Miss: 182
+Total Cycles: 1574
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 997
+Num Write: 782
+Num Hit: 32
+Num Miss: 182
+Total Cycles: 1575
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 997
+Num Write: 782
+Num Hit: 33
+Num Miss: 182
+Total Cycles: 1576
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 998
+Num Write: 782
+Num Hit: 33
+Num Miss: 182
+Total Cycles: 1577
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 998
+Num Write: 782
+Num Hit: 34
+Num Miss: 182
+Total Cycles: 1578
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 999
+Num Write: 782
+Num Hit: 34
+Num Miss: 182
+Total Cycles: 1579
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 999
+Num Write: 782
+Num Hit: 35
+Num Miss: 182
+Total Cycles: 1580
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1000
+Num Write: 782
+Num Hit: 35
+Num Miss: 182
+Total Cycles: 1581
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1000
+Num Write: 782
+Num Hit: 36
+Num Miss: 182
+Total Cycles: 1582
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1001
+Num Write: 782
+Num Hit: 36
+Num Miss: 182
+Total Cycles: 1583
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1001
+Num Write: 782
+Num Hit: 36
+Num Miss: 183
+Total Cycles: 1586
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1002
+Num Write: 783
+Num Hit: 36
+Num Miss: 183
+Total Cycles: 1587
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1003
+Num Write: 783
+Num Hit: 36
+Num Miss: 184
+Total Cycles: 1591
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1004
+Num Write: 784
+Num Hit: 36
+Num Miss: 184
+Total Cycles: 1592
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1005
+Num Write: 784
+Num Hit: 36
+Num Miss: 185
+Total Cycles: 1596
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1006
+Num Write: 785
+Num Hit: 36
+Num Miss: 185
+Total Cycles: 1597
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1007
+Num Write: 785
+Num Hit: 37
+Num Miss: 185
+Total Cycles: 1599
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1008
+Num Write: 785
+Num Hit: 37
+Num Miss: 185
+Total Cycles: 1600
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1008
+Num Write: 785
+Num Hit: 37
+Num Miss: 186
+Total Cycles: 1603
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1009
+Num Write: 786
+Num Hit: 37
+Num Miss: 186
+Total Cycles: 1604
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1010
+Num Write: 786
+Num Hit: 37
+Num Miss: 187
+Total Cycles: 1608
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1011
+Num Write: 787
+Num Hit: 37
+Num Miss: 187
+Total Cycles: 1609
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1012
+Num Write: 787
+Num Hit: 37
+Num Miss: 188
+Total Cycles: 1613
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1013
+Num Write: 788
+Num Hit: 37
+Num Miss: 188
+Total Cycles: 1614
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1014
+Num Write: 788
+Num Hit: 37
+Num Miss: 189
+Total Cycles: 1618
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1015
+Num Write: 789
+Num Hit: 37
+Num Miss: 189
+Total Cycles: 1619
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1016
+Num Write: 789
+Num Hit: 37
+Num Miss: 190
+Total Cycles: 1623
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1017
+Num Write: 790
+Num Hit: 37
+Num Miss: 190
+Total Cycles: 1624
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1018
+Num Write: 790
+Num Hit: 37
+Num Miss: 191
+Total Cycles: 1628
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1019
+Num Write: 791
+Num Hit: 37
+Num Miss: 191
+Total Cycles: 1629
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1020
+Num Write: 791
+Num Hit: 37
+Num Miss: 192
+Total Cycles: 1633
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1021
+Num Write: 792
+Num Hit: 37
+Num Miss: 192
+Total Cycles: 1634
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1022
+Num Write: 792
+Num Hit: 37
+Num Miss: 193
+Total Cycles: 1638
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1023
+Num Write: 793
+Num Hit: 37
+Num Miss: 193
+Total Cycles: 1639
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1024
+Num Write: 793
+Num Hit: 37
+Num Miss: 194
+Total Cycles: 1643
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1025
+Num Write: 794
+Num Hit: 37
+Num Miss: 194
+Total Cycles: 1644
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1026
+Num Write: 794
+Num Hit: 37
+Num Miss: 195
+Total Cycles: 1648
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1027
+Num Write: 795
+Num Hit: 37
+Num Miss: 195
+Total Cycles: 1649
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1028
+Num Write: 795
+Num Hit: 38
+Num Miss: 195
+Total Cycles: 1651
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1029
+Num Write: 795
+Num Hit: 38
+Num Miss: 195
+Total Cycles: 1652
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1029
+Num Write: 795
+Num Hit: 39
+Num Miss: 195
+Total Cycles: 1653
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1030
+Num Write: 795
+Num Hit: 39
+Num Miss: 195
+Total Cycles: 1654
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1030
+Num Write: 795
+Num Hit: 40
+Num Miss: 195
+Total Cycles: 1655
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1031
+Num Write: 795
+Num Hit: 40
+Num Miss: 195
+Total Cycles: 1656
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1031
+Num Write: 795
+Num Hit: 41
+Num Miss: 195
+Total Cycles: 1657
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1032
+Num Write: 795
+Num Hit: 41
+Num Miss: 195
+Total Cycles: 1658
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1032
+Num Write: 795
+Num Hit: 42
+Num Miss: 195
+Total Cycles: 1659
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1033
+Num Write: 795
+Num Hit: 42
+Num Miss: 195
+Total Cycles: 1660
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1033
+Num Write: 795
+Num Hit: 43
+Num Miss: 195
+Total Cycles: 1661
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1034
+Num Write: 795
+Num Hit: 43
+Num Miss: 195
+Total Cycles: 1662
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1034
+Num Write: 795
+Num Hit: 44
+Num Miss: 195
+Total Cycles: 1663
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1035
+Num Write: 795
+Num Hit: 44
+Num Miss: 195
+Total Cycles: 1664
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1035
+Num Write: 795
+Num Hit: 45
+Num Miss: 195
+Total Cycles: 1665
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1036
+Num Write: 795
+Num Hit: 45
+Num Miss: 195
+Total Cycles: 1666
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1036
+Num Write: 795
+Num Hit: 46
+Num Miss: 195
+Total Cycles: 1667
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1037
+Num Write: 795
+Num Hit: 46
+Num Miss: 195
+Total Cycles: 1668
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1037
+Num Write: 795
+Num Hit: 47
+Num Miss: 195
+Total Cycles: 1669
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1038
+Num Write: 795
+Num Hit: 47
+Num Miss: 195
+Total Cycles: 1670
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1038
+Num Write: 795
+Num Hit: 47
+Num Miss: 196
+Total Cycles: 1673
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1039
+Num Write: 796
+Num Hit: 47
+Num Miss: 196
+Total Cycles: 1674
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1040
+Num Write: 796
+Num Hit: 47
+Num Miss: 197
+Total Cycles: 1678
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1041
+Num Write: 797
+Num Hit: 47
+Num Miss: 197
+Total Cycles: 1679
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1042
+Num Write: 797
+Num Hit: 47
+Num Miss: 198
+Total Cycles: 1683
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1043
+Num Write: 798
+Num Hit: 47
+Num Miss: 198
+Total Cycles: 1684
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1044
+Num Write: 798
+Num Hit: 48
+Num Miss: 198
+Total Cycles: 1686
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1045
+Num Write: 798
+Num Hit: 48
+Num Miss: 198
+Total Cycles: 1687
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1045
+Num Write: 798
+Num Hit: 48
+Num Miss: 199
+Total Cycles: 1690
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1046
+Num Write: 799
+Num Hit: 48
+Num Miss: 199
+Total Cycles: 1691
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1047
+Num Write: 799
+Num Hit: 48
+Num Miss: 200
+Total Cycles: 1695
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1048
+Num Write: 800
+Num Hit: 48
+Num Miss: 200
+Total Cycles: 1696
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1049
+Num Write: 800
+Num Hit: 48
+Num Miss: 201
+Total Cycles: 1700
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1050
+Num Write: 801
+Num Hit: 48
+Num Miss: 201
+Total Cycles: 1701
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1051
+Num Write: 801
+Num Hit: 48
+Num Miss: 202
+Total Cycles: 1705
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1052
+Num Write: 802
+Num Hit: 48
+Num Miss: 202
+Total Cycles: 1706
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1053
+Num Write: 802
+Num Hit: 48
+Num Miss: 203
+Total Cycles: 1710
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1054
+Num Write: 803
+Num Hit: 48
+Num Miss: 203
+Total Cycles: 1711
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1055
+Num Write: 803
+Num Hit: 48
+Num Miss: 204
+Total Cycles: 1715
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1056
+Num Write: 804
+Num Hit: 48
+Num Miss: 204
+Total Cycles: 1716
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1057
+Num Write: 804
+Num Hit: 48
+Num Miss: 205
+Total Cycles: 1720
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1058
+Num Write: 805
+Num Hit: 48
+Num Miss: 205
+Total Cycles: 1721
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1059
+Num Write: 805
+Num Hit: 49
+Num Miss: 205
+Total Cycles: 1723
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1060
+Num Write: 805
+Num Hit: 49
+Num Miss: 205
+Total Cycles: 1724
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1060
+Num Write: 805
+Num Hit: 50
+Num Miss: 205
+Total Cycles: 1725
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1061
+Num Write: 805
+Num Hit: 50
+Num Miss: 205
+Total Cycles: 1726
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1061
+Num Write: 805
+Num Hit: 51
+Num Miss: 205
+Total Cycles: 1727
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1062
+Num Write: 805
+Num Hit: 51
+Num Miss: 205
+Total Cycles: 1728
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1062
+Num Write: 805
+Num Hit: 52
+Num Miss: 205
+Total Cycles: 1729
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1063
+Num Write: 805
+Num Hit: 52
+Num Miss: 205
+Total Cycles: 1730
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1063
+Num Write: 805
+Num Hit: 53
+Num Miss: 205
+Total Cycles: 1731
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1064
+Num Write: 805
+Num Hit: 53
+Num Miss: 205
+Total Cycles: 1732
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1064
+Num Write: 805
+Num Hit: 54
+Num Miss: 205
+Total Cycles: 1733
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1065
+Num Write: 805
+Num Hit: 54
+Num Miss: 205
+Total Cycles: 1734
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1065
+Num Write: 805
+Num Hit: 55
+Num Miss: 205
+Total Cycles: 1735
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1066
+Num Write: 805
+Num Hit: 55
+Num Miss: 205
+Total Cycles: 1736
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1066
+Num Write: 805
+Num Hit: 55
+Num Miss: 206
+Total Cycles: 1739
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1067
+Num Write: 806
+Num Hit: 55
+Num Miss: 206
+Total Cycles: 1740
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1068
+Num Write: 806
+Num Hit: 55
+Num Miss: 207
+Total Cycles: 1744
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1069
+Num Write: 807
+Num Hit: 55
+Num Miss: 207
+Total Cycles: 1745
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1070
+Num Write: 807
+Num Hit: 55
+Num Miss: 208
+Total Cycles: 1749
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1071
+Num Write: 808
+Num Hit: 55
+Num Miss: 208
+Total Cycles: 1750
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1072
+Num Write: 808
+Num Hit: 56
+Num Miss: 208
+Total Cycles: 1752
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1073
+Num Write: 808
+Num Hit: 56
+Num Miss: 208
+Total Cycles: 1753
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1073
+Num Write: 808
+Num Hit: 56
+Num Miss: 209
+Total Cycles: 1756
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1074
+Num Write: 809
+Num Hit: 56
+Num Miss: 209
+Total Cycles: 1757
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1075
+Num Write: 809
+Num Hit: 56
+Num Miss: 210
+Total Cycles: 1761
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1076
+Num Write: 810
+Num Hit: 56
+Num Miss: 210
+Total Cycles: 1762
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1077
+Num Write: 810
+Num Hit: 56
+Num Miss: 211
+Total Cycles: 1766
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1078
+Num Write: 811
+Num Hit: 56
+Num Miss: 211
+Total Cycles: 1767
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1079
+Num Write: 811
+Num Hit: 56
+Num Miss: 212
+Total Cycles: 1771
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1080
+Num Write: 812
+Num Hit: 56
+Num Miss: 212
+Total Cycles: 1772
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1081
+Num Write: 812
+Num Hit: 56
+Num Miss: 213
+Total Cycles: 1776
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1082
+Num Write: 813
+Num Hit: 56
+Num Miss: 213
+Total Cycles: 1777
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1083
+Num Write: 813
+Num Hit: 56
+Num Miss: 214
+Total Cycles: 1781
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1084
+Num Write: 814
+Num Hit: 56
+Num Miss: 214
+Total Cycles: 1782
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1085
+Num Write: 814
+Num Hit: 56
+Num Miss: 215
+Total Cycles: 1786
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1086
+Num Write: 815
+Num Hit: 56
+Num Miss: 215
+Total Cycles: 1787
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1087
+Num Write: 815
+Num Hit: 56
+Num Miss: 216
+Total Cycles: 1791
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1088
+Num Write: 816
+Num Hit: 56
+Num Miss: 216
+Total Cycles: 1792
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1089
+Num Write: 816
+Num Hit: 57
+Num Miss: 216
+Total Cycles: 1794
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1090
+Num Write: 816
+Num Hit: 57
+Num Miss: 216
+Total Cycles: 1795
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1090
+Num Write: 816
+Num Hit: 58
+Num Miss: 216
+Total Cycles: 1796
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1091
+Num Write: 816
+Num Hit: 58
+Num Miss: 216
+Total Cycles: 1797
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1091
+Num Write: 816
+Num Hit: 59
+Num Miss: 216
+Total Cycles: 1798
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1092
+Num Write: 816
+Num Hit: 59
+Num Miss: 216
+Total Cycles: 1799
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1092
+Num Write: 816
+Num Hit: 60
+Num Miss: 216
+Total Cycles: 1800
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1093
+Num Write: 816
+Num Hit: 60
+Num Miss: 216
+Total Cycles: 1801
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1093
+Num Write: 816
+Num Hit: 61
+Num Miss: 216
+Total Cycles: 1802
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1094
+Num Write: 816
+Num Hit: 61
+Num Miss: 216
+Total Cycles: 1803
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1094
+Num Write: 816
+Num Hit: 62
+Num Miss: 216
+Total Cycles: 1804
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1095
+Num Write: 816
+Num Hit: 62
+Num Miss: 216
+Total Cycles: 1805
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1095
+Num Write: 816
+Num Hit: 63
+Num Miss: 216
+Total Cycles: 1806
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1096
+Num Write: 816
+Num Hit: 63
+Num Miss: 216
+Total Cycles: 1807
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1096
+Num Write: 816
+Num Hit: 64
+Num Miss: 216
+Total Cycles: 1808
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1097
+Num Write: 816
+Num Hit: 64
+Num Miss: 216
+Total Cycles: 1809
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1097
+Num Write: 816
+Num Hit: 65
+Num Miss: 216
+Total Cycles: 1810
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1098
+Num Write: 816
+Num Hit: 65
+Num Miss: 216
+Total Cycles: 1811
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1098
+Num Write: 816
+Num Hit: 66
+Num Miss: 216
+Total Cycles: 1812
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1099
+Num Write: 816
+Num Hit: 66
+Num Miss: 216
+Total Cycles: 1813
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1099
+Num Write: 816
+Num Hit: 67
+Num Miss: 216
+Total Cycles: 1814
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1100
+Num Write: 816
+Num Hit: 67
+Num Miss: 216
+Total Cycles: 1815
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1100
+Num Write: 816
+Num Hit: 67
+Num Miss: 217
+Total Cycles: 1818
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1101
+Num Write: 817
+Num Hit: 67
+Num Miss: 217
+Total Cycles: 1819
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1102
+Num Write: 817
+Num Hit: 67
+Num Miss: 218
+Total Cycles: 1823
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1103
+Num Write: 818
+Num Hit: 67
+Num Miss: 218
+Total Cycles: 1824
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1104
+Num Write: 818
+Num Hit: 67
+Num Miss: 219
+Total Cycles: 1828
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1105
+Num Write: 819
+Num Hit: 67
+Num Miss: 219
+Total Cycles: 1829
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1106
+Num Write: 819
+Num Hit: 68
+Num Miss: 219
+Total Cycles: 1831
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1107
+Num Write: 819
+Num Hit: 68
+Num Miss: 219
+Total Cycles: 1832
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1107
+Num Write: 819
+Num Hit: 68
+Num Miss: 220
+Total Cycles: 1835
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1108
+Num Write: 820
+Num Hit: 68
+Num Miss: 220
+Total Cycles: 1836
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1109
+Num Write: 820
+Num Hit: 68
+Num Miss: 221
+Total Cycles: 1840
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1110
+Num Write: 821
+Num Hit: 68
+Num Miss: 221
+Total Cycles: 1841
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1111
+Num Write: 821
+Num Hit: 68
+Num Miss: 222
+Total Cycles: 1845
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1112
+Num Write: 822
+Num Hit: 68
+Num Miss: 222
+Total Cycles: 1846
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1113
+Num Write: 822
+Num Hit: 68
+Num Miss: 223
+Total Cycles: 1850
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1114
+Num Write: 823
+Num Hit: 68
+Num Miss: 223
+Total Cycles: 1851
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1115
+Num Write: 823
+Num Hit: 68
+Num Miss: 224
+Total Cycles: 1855
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1116
+Num Write: 824
+Num Hit: 68
+Num Miss: 224
+Total Cycles: 1856
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1117
+Num Write: 824
+Num Hit: 68
+Num Miss: 225
+Total Cycles: 1860
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1118
+Num Write: 825
+Num Hit: 68
+Num Miss: 225
+Total Cycles: 1861
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1119
+Num Write: 825
+Num Hit: 68
+Num Miss: 226
+Total Cycles: 1865
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1120
+Num Write: 826
+Num Hit: 68
+Num Miss: 226
+Total Cycles: 1866
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1121
+Num Write: 826
+Num Hit: 68
+Num Miss: 227
+Total Cycles: 1870
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1122
+Num Write: 827
+Num Hit: 68
+Num Miss: 227
+Total Cycles: 1871
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1123
+Num Write: 827
+Num Hit: 68
+Num Miss: 228
+Total Cycles: 1875
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1124
+Num Write: 828
+Num Hit: 68
+Num Miss: 228
+Total Cycles: 1876
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1125
+Num Write: 828
+Num Hit: 69
+Num Miss: 228
+Total Cycles: 1878
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1126
+Num Write: 828
+Num Hit: 69
+Num Miss: 228
+Total Cycles: 1879
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1126
+Num Write: 828
+Num Hit: 70
+Num Miss: 228
+Total Cycles: 1880
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1127
+Num Write: 828
+Num Hit: 70
+Num Miss: 228
+Total Cycles: 1881
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1127
+Num Write: 828
+Num Hit: 71
+Num Miss: 228
+Total Cycles: 1882
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1128
+Num Write: 828
+Num Hit: 71
+Num Miss: 228
+Total Cycles: 1883
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1128
+Num Write: 828
+Num Hit: 72
+Num Miss: 228
+Total Cycles: 1884
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1129
+Num Write: 828
+Num Hit: 72
+Num Miss: 228
+Total Cycles: 1885
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1129
+Num Write: 828
+Num Hit: 73
+Num Miss: 228
+Total Cycles: 1886
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1130
+Num Write: 828
+Num Hit: 73
+Num Miss: 228
+Total Cycles: 1887
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1130
+Num Write: 828
+Num Hit: 74
+Num Miss: 228
+Total Cycles: 1888
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1131
+Num Write: 828
+Num Hit: 74
+Num Miss: 228
+Total Cycles: 1889
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1131
+Num Write: 828
+Num Hit: 75
+Num Miss: 228
+Total Cycles: 1890
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1132
+Num Write: 828
+Num Hit: 75
+Num Miss: 228
+Total Cycles: 1891
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1132
+Num Write: 828
+Num Hit: 76
+Num Miss: 228
+Total Cycles: 1892
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1133
+Num Write: 828
+Num Hit: 76
+Num Miss: 228
+Total Cycles: 1893
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1133
+Num Write: 828
+Num Hit: 77
+Num Miss: 228
+Total Cycles: 1894
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1134
+Num Write: 828
+Num Hit: 77
+Num Miss: 228
+Total Cycles: 1895
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1134
+Num Write: 828
+Num Hit: 77
+Num Miss: 229
+Total Cycles: 1898
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1135
+Num Write: 829
+Num Hit: 77
+Num Miss: 229
+Total Cycles: 1899
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1136
+Num Write: 829
+Num Hit: 77
+Num Miss: 230
+Total Cycles: 1903
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1137
+Num Write: 830
+Num Hit: 77
+Num Miss: 230
+Total Cycles: 1904
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1138
+Num Write: 830
+Num Hit: 77
+Num Miss: 231
+Total Cycles: 1908
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1139
+Num Write: 831
+Num Hit: 77
+Num Miss: 231
+Total Cycles: 1909
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1140
+Num Write: 831
+Num Hit: 78
+Num Miss: 231
+Total Cycles: 1911
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1141
+Num Write: 831
+Num Hit: 78
+Num Miss: 231
+Total Cycles: 1912
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1141
+Num Write: 831
+Num Hit: 78
+Num Miss: 232
+Total Cycles: 1915
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1142
+Num Write: 832
+Num Hit: 78
+Num Miss: 232
+Total Cycles: 1916
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1143
+Num Write: 832
+Num Hit: 78
+Num Miss: 233
+Total Cycles: 1920
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1144
+Num Write: 833
+Num Hit: 78
+Num Miss: 233
+Total Cycles: 1921
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1145
+Num Write: 833
+Num Hit: 78
+Num Miss: 234
+Total Cycles: 1925
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1146
+Num Write: 834
+Num Hit: 78
+Num Miss: 234
+Total Cycles: 1926
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1147
+Num Write: 834
+Num Hit: 78
+Num Miss: 235
+Total Cycles: 1930
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1148
+Num Write: 835
+Num Hit: 78
+Num Miss: 235
+Total Cycles: 1931
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1149
+Num Write: 835
+Num Hit: 78
+Num Miss: 236
+Total Cycles: 1935
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1150
+Num Write: 836
+Num Hit: 78
+Num Miss: 236
+Total Cycles: 1936
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1151
+Num Write: 836
+Num Hit: 78
+Num Miss: 237
+Total Cycles: 1940
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1152
+Num Write: 837
+Num Hit: 78
+Num Miss: 237
+Total Cycles: 1941
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1153
+Num Write: 837
+Num Hit: 78
+Num Miss: 238
+Total Cycles: 1945
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1154
+Num Write: 838
+Num Hit: 78
+Num Miss: 238
+Total Cycles: 1946
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1155
+Num Write: 838
+Num Hit: 78
+Num Miss: 239
+Total Cycles: 1950
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1156
+Num Write: 839
+Num Hit: 78
+Num Miss: 239
+Total Cycles: 1951
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1157
+Num Write: 839
+Num Hit: 79
+Num Miss: 239
+Total Cycles: 1953
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1158
+Num Write: 839
+Num Hit: 79
+Num Miss: 239
+Total Cycles: 1954
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1158
+Num Write: 839
+Num Hit: 80
+Num Miss: 239
+Total Cycles: 1955
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1159
+Num Write: 839
+Num Hit: 80
+Num Miss: 239
+Total Cycles: 1956
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1159
+Num Write: 839
+Num Hit: 81
+Num Miss: 239
+Total Cycles: 1957
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1160
+Num Write: 839
+Num Hit: 81
+Num Miss: 239
+Total Cycles: 1958
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1160
+Num Write: 839
+Num Hit: 82
+Num Miss: 239
+Total Cycles: 1959
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1161
+Num Write: 839
+Num Hit: 82
+Num Miss: 239
+Total Cycles: 1960
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1161
+Num Write: 839
+Num Hit: 83
+Num Miss: 239
+Total Cycles: 1961
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1162
+Num Write: 839
+Num Hit: 83
+Num Miss: 239
+Total Cycles: 1962
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1162
+Num Write: 839
+Num Hit: 84
+Num Miss: 239
+Total Cycles: 1963
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1163
+Num Write: 839
+Num Hit: 84
+Num Miss: 239
+Total Cycles: 1964
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1163
+Num Write: 839
+Num Hit: 85
+Num Miss: 239
+Total Cycles: 1965
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1164
+Num Write: 839
+Num Hit: 85
+Num Miss: 239
+Total Cycles: 1966
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1164
+Num Write: 839
+Num Hit: 86
+Num Miss: 239
+Total Cycles: 1967
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1165
+Num Write: 839
+Num Hit: 86
+Num Miss: 239
+Total Cycles: 1968
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1165
+Num Write: 839
+Num Hit: 86
+Num Miss: 240
+Total Cycles: 1971
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1166
+Num Write: 840
+Num Hit: 86
+Num Miss: 240
+Total Cycles: 1972
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1167
+Num Write: 840
+Num Hit: 86
+Num Miss: 241
+Total Cycles: 1976
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1168
+Num Write: 841
+Num Hit: 86
+Num Miss: 241
+Total Cycles: 1977
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1169
+Num Write: 841
+Num Hit: 86
+Num Miss: 242
+Total Cycles: 1981
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1170
+Num Write: 842
+Num Hit: 86
+Num Miss: 242
+Total Cycles: 1982
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1171
+Num Write: 842
+Num Hit: 87
+Num Miss: 242
+Total Cycles: 1984
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1172
+Num Write: 842
+Num Hit: 87
+Num Miss: 242
+Total Cycles: 1985
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1172
+Num Write: 842
+Num Hit: 87
+Num Miss: 243
+Total Cycles: 1988
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1173
+Num Write: 843
+Num Hit: 87
+Num Miss: 243
+Total Cycles: 1989
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1174
+Num Write: 843
+Num Hit: 87
+Num Miss: 244
+Total Cycles: 1993
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1175
+Num Write: 844
+Num Hit: 87
+Num Miss: 244
+Total Cycles: 1994
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1176
+Num Write: 844
+Num Hit: 87
+Num Miss: 245
+Total Cycles: 1998
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1177
+Num Write: 845
+Num Hit: 87
+Num Miss: 245
+Total Cycles: 1999
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1178
+Num Write: 845
+Num Hit: 87
+Num Miss: 246
+Total Cycles: 2003
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1179
+Num Write: 846
+Num Hit: 87
+Num Miss: 246
+Total Cycles: 2004
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1180
+Num Write: 846
+Num Hit: 87
+Num Miss: 247
+Total Cycles: 2008
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1181
+Num Write: 847
+Num Hit: 87
+Num Miss: 247
+Total Cycles: 2009
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1182
+Num Write: 847
+Num Hit: 87
+Num Miss: 248
+Total Cycles: 2013
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1183
+Num Write: 848
+Num Hit: 87
+Num Miss: 248
+Total Cycles: 2014
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1184
+Num Write: 848
+Num Hit: 87
+Num Miss: 249
+Total Cycles: 2018
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1185
+Num Write: 849
+Num Hit: 87
+Num Miss: 249
+Total Cycles: 2019
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1186
+Num Write: 849
+Num Hit: 87
+Num Miss: 250
+Total Cycles: 2023
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1187
+Num Write: 850
+Num Hit: 87
+Num Miss: 250
+Total Cycles: 2024
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1188
+Num Write: 850
+Num Hit: 87
+Num Miss: 251
+Total Cycles: 2028
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1189
+Num Write: 851
+Num Hit: 87
+Num Miss: 251
+Total Cycles: 2029
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1190
+Num Write: 851
+Num Hit: 88
+Num Miss: 251
+Total Cycles: 2031
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1191
+Num Write: 851
+Num Hit: 88
+Num Miss: 251
+Total Cycles: 2032
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1191
+Num Write: 851
+Num Hit: 89
+Num Miss: 251
+Total Cycles: 2033
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1192
+Num Write: 851
+Num Hit: 89
+Num Miss: 251
+Total Cycles: 2034
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1192
+Num Write: 851
+Num Hit: 90
+Num Miss: 251
+Total Cycles: 2035
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1193
+Num Write: 851
+Num Hit: 90
+Num Miss: 251
+Total Cycles: 2036
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1193
+Num Write: 851
+Num Hit: 91
+Num Miss: 251
+Total Cycles: 2037
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1194
+Num Write: 851
+Num Hit: 91
+Num Miss: 251
+Total Cycles: 2038
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1194
+Num Write: 851
+Num Hit: 92
+Num Miss: 251
+Total Cycles: 2039
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1195
+Num Write: 851
+Num Hit: 92
+Num Miss: 251
+Total Cycles: 2040
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1195
+Num Write: 851
+Num Hit: 93
+Num Miss: 251
+Total Cycles: 2041
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1196
+Num Write: 851
+Num Hit: 93
+Num Miss: 251
+Total Cycles: 2042
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1196
+Num Write: 851
+Num Hit: 94
+Num Miss: 251
+Total Cycles: 2043
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1197
+Num Write: 851
+Num Hit: 94
+Num Miss: 251
+Total Cycles: 2044
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1197
+Num Write: 851
+Num Hit: 95
+Num Miss: 251
+Total Cycles: 2045
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1198
+Num Write: 851
+Num Hit: 95
+Num Miss: 251
+Total Cycles: 2046
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1198
+Num Write: 851
+Num Hit: 96
+Num Miss: 251
+Total Cycles: 2047
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1199
+Num Write: 851
+Num Hit: 96
+Num Miss: 251
+Total Cycles: 2048
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1199
+Num Write: 851
+Num Hit: 97
+Num Miss: 251
+Total Cycles: 2049
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1200
+Num Write: 851
+Num Hit: 97
+Num Miss: 251
+Total Cycles: 2050
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1200
+Num Write: 851
+Num Hit: 98
+Num Miss: 251
+Total Cycles: 2051
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1201
+Num Write: 851
+Num Hit: 98
+Num Miss: 251
+Total Cycles: 2052
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1201
+Num Write: 851
+Num Hit: 99
+Num Miss: 251
+Total Cycles: 2053
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1202
+Num Write: 851
+Num Hit: 99
+Num Miss: 251
+Total Cycles: 2054
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1202
+Num Write: 851
+Num Hit: 99
+Num Miss: 252
+Total Cycles: 2057
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1203
+Num Write: 852
+Num Hit: 99
+Num Miss: 252
+Total Cycles: 2058
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1204
+Num Write: 852
+Num Hit: 99
+Num Miss: 253
+Total Cycles: 2062
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1205
+Num Write: 853
+Num Hit: 99
+Num Miss: 253
+Total Cycles: 2063
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1206
+Num Write: 853
+Num Hit: 99
+Num Miss: 254
+Total Cycles: 2067
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1207
+Num Write: 854
+Num Hit: 99
+Num Miss: 254
+Total Cycles: 2068
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1208
+Num Write: 854
+Num Hit: 100
+Num Miss: 254
+Total Cycles: 2070
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1209
+Num Write: 854
+Num Hit: 100
+Num Miss: 254
+Total Cycles: 2071
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1209
+Num Write: 854
+Num Hit: 100
+Num Miss: 255
+Total Cycles: 2074
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1210
+Num Write: 855
+Num Hit: 100
+Num Miss: 255
+Total Cycles: 2075
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1211
+Num Write: 855
+Num Hit: 100
+Num Miss: 256
+Total Cycles: 2079
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1212
+Num Write: 856
+Num Hit: 100
+Num Miss: 256
+Total Cycles: 2080
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1213
+Num Write: 856
+Num Hit: 100
+Num Miss: 257
+Total Cycles: 2084
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1214
+Num Write: 857
+Num Hit: 100
+Num Miss: 257
+Total Cycles: 2085
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1215
+Num Write: 857
+Num Hit: 100
+Num Miss: 258
+Total Cycles: 2089
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1216
+Num Write: 858
+Num Hit: 100
+Num Miss: 258
+Total Cycles: 2090
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1217
+Num Write: 858
+Num Hit: 100
+Num Miss: 259
+Total Cycles: 2094
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1218
+Num Write: 859
+Num Hit: 100
+Num Miss: 259
+Total Cycles: 2095
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1219
+Num Write: 859
+Num Hit: 100
+Num Miss: 260
+Total Cycles: 2099
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1220
+Num Write: 860
+Num Hit: 100
+Num Miss: 260
+Total Cycles: 2100
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1221
+Num Write: 860
+Num Hit: 100
+Num Miss: 261
+Total Cycles: 2104
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1222
+Num Write: 861
+Num Hit: 100
+Num Miss: 261
+Total Cycles: 2105
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1223
+Num Write: 861
+Num Hit: 100
+Num Miss: 262
+Total Cycles: 2109
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1224
+Num Write: 862
+Num Hit: 100
+Num Miss: 262
+Total Cycles: 2110
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1225
+Num Write: 862
+Num Hit: 100
+Num Miss: 263
+Total Cycles: 2114
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1226
+Num Write: 863
+Num Hit: 100
+Num Miss: 263
+Total Cycles: 2115
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1227
+Num Write: 863
+Num Hit: 101
+Num Miss: 263
+Total Cycles: 2117
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1228
+Num Write: 863
+Num Hit: 101
+Num Miss: 263
+Total Cycles: 2118
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1228
+Num Write: 863
+Num Hit: 102
+Num Miss: 263
+Total Cycles: 2119
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1229
+Num Write: 863
+Num Hit: 102
+Num Miss: 263
+Total Cycles: 2120
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1229
+Num Write: 863
+Num Hit: 103
+Num Miss: 263
+Total Cycles: 2121
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1230
+Num Write: 863
+Num Hit: 103
+Num Miss: 263
+Total Cycles: 2122
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1230
+Num Write: 863
+Num Hit: 104
+Num Miss: 263
+Total Cycles: 2123
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1231
+Num Write: 863
+Num Hit: 104
+Num Miss: 263
+Total Cycles: 2124
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1231
+Num Write: 863
+Num Hit: 105
+Num Miss: 263
+Total Cycles: 2125
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1232
+Num Write: 863
+Num Hit: 105
+Num Miss: 263
+Total Cycles: 2126
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1232
+Num Write: 863
+Num Hit: 106
+Num Miss: 263
+Total Cycles: 2127
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1233
+Num Write: 863
+Num Hit: 106
+Num Miss: 263
+Total Cycles: 2128
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1233
+Num Write: 863
+Num Hit: 107
+Num Miss: 263
+Total Cycles: 2129
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1234
+Num Write: 863
+Num Hit: 107
+Num Miss: 263
+Total Cycles: 2130
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1234
+Num Write: 863
+Num Hit: 108
+Num Miss: 263
+Total Cycles: 2131
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1235
+Num Write: 863
+Num Hit: 108
+Num Miss: 263
+Total Cycles: 2132
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1235
+Num Write: 863
+Num Hit: 109
+Num Miss: 263
+Total Cycles: 2133
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1236
+Num Write: 863
+Num Hit: 109
+Num Miss: 263
+Total Cycles: 2134
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1236
+Num Write: 863
+Num Hit: 109
+Num Miss: 264
+Total Cycles: 2137
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1237
+Num Write: 864
+Num Hit: 109
+Num Miss: 264
+Total Cycles: 2138
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1238
+Num Write: 864
+Num Hit: 109
+Num Miss: 265
+Total Cycles: 2142
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1239
+Num Write: 865
+Num Hit: 109
+Num Miss: 265
+Total Cycles: 2143
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1240
+Num Write: 865
+Num Hit: 109
+Num Miss: 266
+Total Cycles: 2147
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1241
+Num Write: 866
+Num Hit: 109
+Num Miss: 266
+Total Cycles: 2148
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1242
+Num Write: 866
+Num Hit: 110
+Num Miss: 266
+Total Cycles: 2150
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1243
+Num Write: 866
+Num Hit: 110
+Num Miss: 266
+Total Cycles: 2151
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1243
+Num Write: 866
+Num Hit: 110
+Num Miss: 267
+Total Cycles: 2154
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1244
+Num Write: 867
+Num Hit: 110
+Num Miss: 267
+Total Cycles: 2155
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1245
+Num Write: 867
+Num Hit: 110
+Num Miss: 268
+Total Cycles: 2159
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1246
+Num Write: 868
+Num Hit: 110
+Num Miss: 268
+Total Cycles: 2160
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1247
+Num Write: 868
+Num Hit: 110
+Num Miss: 269
+Total Cycles: 2164
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1248
+Num Write: 869
+Num Hit: 110
+Num Miss: 269
+Total Cycles: 2165
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1249
+Num Write: 869
+Num Hit: 110
+Num Miss: 270
+Total Cycles: 2169
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1250
+Num Write: 870
+Num Hit: 110
+Num Miss: 270
+Total Cycles: 2170
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1251
+Num Write: 870
+Num Hit: 110
+Num Miss: 271
+Total Cycles: 2174
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1252
+Num Write: 871
+Num Hit: 110
+Num Miss: 271
+Total Cycles: 2175
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1253
+Num Write: 871
+Num Hit: 110
+Num Miss: 272
+Total Cycles: 2179
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1254
+Num Write: 872
+Num Hit: 110
+Num Miss: 272
+Total Cycles: 2180
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1255
+Num Write: 872
+Num Hit: 110
+Num Miss: 273
+Total Cycles: 2184
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1256
+Num Write: 873
+Num Hit: 110
+Num Miss: 273
+Total Cycles: 2185
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1257
+Num Write: 873
+Num Hit: 111
+Num Miss: 273
+Total Cycles: 2187
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1258
+Num Write: 873
+Num Hit: 111
+Num Miss: 273
+Total Cycles: 2188
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1258
+Num Write: 873
+Num Hit: 112
+Num Miss: 273
+Total Cycles: 2189
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1259
+Num Write: 873
+Num Hit: 112
+Num Miss: 273
+Total Cycles: 2190
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1259
+Num Write: 873
+Num Hit: 113
+Num Miss: 273
+Total Cycles: 2191
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1260
+Num Write: 873
+Num Hit: 113
+Num Miss: 273
+Total Cycles: 2192
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1260
+Num Write: 873
+Num Hit: 114
+Num Miss: 273
+Total Cycles: 2193
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1261
+Num Write: 873
+Num Hit: 114
+Num Miss: 273
+Total Cycles: 2194
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1261
+Num Write: 873
+Num Hit: 115
+Num Miss: 273
+Total Cycles: 2195
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1262
+Num Write: 873
+Num Hit: 115
+Num Miss: 273
+Total Cycles: 2196
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1262
+Num Write: 873
+Num Hit: 116
+Num Miss: 273
+Total Cycles: 2197
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1263
+Num Write: 873
+Num Hit: 116
+Num Miss: 273
+Total Cycles: 2198
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1263
+Num Write: 873
+Num Hit: 117
+Num Miss: 273
+Total Cycles: 2199
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1264
+Num Write: 873
+Num Hit: 117
+Num Miss: 273
+Total Cycles: 2200
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1264
+Num Write: 873
+Num Hit: 117
+Num Miss: 274
+Total Cycles: 2203
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1265
+Num Write: 874
+Num Hit: 117
+Num Miss: 274
+Total Cycles: 2204
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1266
+Num Write: 874
+Num Hit: 117
+Num Miss: 275
+Total Cycles: 2208
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1267
+Num Write: 875
+Num Hit: 117
+Num Miss: 275
+Total Cycles: 2209
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1268
+Num Write: 875
+Num Hit: 117
+Num Miss: 276
+Total Cycles: 2213
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1269
+Num Write: 876
+Num Hit: 117
+Num Miss: 276
+Total Cycles: 2214
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1270
+Num Write: 876
+Num Hit: 118
+Num Miss: 276
+Total Cycles: 2216
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1271
+Num Write: 876
+Num Hit: 118
+Num Miss: 276
+Total Cycles: 2217
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1271
+Num Write: 876
+Num Hit: 118
+Num Miss: 277
+Total Cycles: 2220
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1272
+Num Write: 877
+Num Hit: 118
+Num Miss: 277
+Total Cycles: 2221
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1273
+Num Write: 877
+Num Hit: 118
+Num Miss: 278
+Total Cycles: 2225
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1274
+Num Write: 878
+Num Hit: 118
+Num Miss: 278
+Total Cycles: 2226
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1275
+Num Write: 878
+Num Hit: 118
+Num Miss: 279
+Total Cycles: 2230
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1276
+Num Write: 879
+Num Hit: 118
+Num Miss: 279
+Total Cycles: 2231
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1277
+Num Write: 879
+Num Hit: 118
+Num Miss: 280
+Total Cycles: 2235
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1278
+Num Write: 880
+Num Hit: 118
+Num Miss: 280
+Total Cycles: 2236
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1279
+Num Write: 880
+Num Hit: 118
+Num Miss: 281
+Total Cycles: 2240
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1280
+Num Write: 881
+Num Hit: 118
+Num Miss: 281
+Total Cycles: 2241
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1281
+Num Write: 881
+Num Hit: 118
+Num Miss: 282
+Total Cycles: 2245
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1282
+Num Write: 882
+Num Hit: 118
+Num Miss: 282
+Total Cycles: 2246
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1283
+Num Write: 882
+Num Hit: 118
+Num Miss: 283
+Total Cycles: 2250
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1284
+Num Write: 883
+Num Hit: 118
+Num Miss: 283
+Total Cycles: 2251
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1285
+Num Write: 883
+Num Hit: 118
+Num Miss: 284
+Total Cycles: 2255
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1286
+Num Write: 884
+Num Hit: 118
+Num Miss: 284
+Total Cycles: 2256
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1287
+Num Write: 884
+Num Hit: 119
+Num Miss: 284
+Total Cycles: 2258
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1288
+Num Write: 884
+Num Hit: 119
+Num Miss: 284
+Total Cycles: 2259
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1288
+Num Write: 884
+Num Hit: 120
+Num Miss: 284
+Total Cycles: 2260
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1289
+Num Write: 884
+Num Hit: 120
+Num Miss: 284
+Total Cycles: 2261
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1289
+Num Write: 884
+Num Hit: 121
+Num Miss: 284
+Total Cycles: 2262
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1290
+Num Write: 884
+Num Hit: 121
+Num Miss: 284
+Total Cycles: 2263
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1290
+Num Write: 884
+Num Hit: 122
+Num Miss: 284
+Total Cycles: 2264
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1291
+Num Write: 884
+Num Hit: 122
+Num Miss: 284
+Total Cycles: 2265
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1291
+Num Write: 884
+Num Hit: 123
+Num Miss: 284
+Total Cycles: 2266
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1292
+Num Write: 884
+Num Hit: 123
+Num Miss: 284
+Total Cycles: 2267
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1292
+Num Write: 884
+Num Hit: 124
+Num Miss: 284
+Total Cycles: 2268
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1293
+Num Write: 884
+Num Hit: 124
+Num Miss: 284
+Total Cycles: 2269
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1293
+Num Write: 884
+Num Hit: 125
+Num Miss: 284
+Total Cycles: 2270
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1294
+Num Write: 884
+Num Hit: 125
+Num Miss: 284
+Total Cycles: 2271
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1294
+Num Write: 884
+Num Hit: 126
+Num Miss: 284
+Total Cycles: 2272
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1295
+Num Write: 884
+Num Hit: 126
+Num Miss: 284
+Total Cycles: 2273
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1295
+Num Write: 884
+Num Hit: 127
+Num Miss: 284
+Total Cycles: 2274
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1296
+Num Write: 884
+Num Hit: 127
+Num Miss: 284
+Total Cycles: 2275
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1296
+Num Write: 884
+Num Hit: 128
+Num Miss: 284
+Total Cycles: 2276
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1297
+Num Write: 884
+Num Hit: 128
+Num Miss: 284
+Total Cycles: 2277
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1297
+Num Write: 884
+Num Hit: 129
+Num Miss: 284
+Total Cycles: 2278
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1298
+Num Write: 884
+Num Hit: 129
+Num Miss: 284
+Total Cycles: 2279
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1298
+Num Write: 884
+Num Hit: 129
+Num Miss: 285
+Total Cycles: 2282
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1299
+Num Write: 885
+Num Hit: 129
+Num Miss: 285
+Total Cycles: 2283
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1300
+Num Write: 885
+Num Hit: 129
+Num Miss: 286
+Total Cycles: 2287
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1301
+Num Write: 886
+Num Hit: 129
+Num Miss: 286
+Total Cycles: 2288
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1302
+Num Write: 886
+Num Hit: 129
+Num Miss: 287
+Total Cycles: 2292
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1303
+Num Write: 887
+Num Hit: 129
+Num Miss: 287
+Total Cycles: 2293
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1304
+Num Write: 887
+Num Hit: 130
+Num Miss: 287
+Total Cycles: 2295
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1305
+Num Write: 887
+Num Hit: 130
+Num Miss: 287
+Total Cycles: 2296
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1305
+Num Write: 887
+Num Hit: 130
+Num Miss: 288
+Total Cycles: 2299
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1306
+Num Write: 888
+Num Hit: 130
+Num Miss: 288
+Total Cycles: 2300
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1307
+Num Write: 888
+Num Hit: 130
+Num Miss: 289
+Total Cycles: 2304
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1308
+Num Write: 889
+Num Hit: 130
+Num Miss: 289
+Total Cycles: 2305
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1309
+Num Write: 889
+Num Hit: 130
+Num Miss: 290
+Total Cycles: 2309
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1310
+Num Write: 890
+Num Hit: 130
+Num Miss: 290
+Total Cycles: 2310
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1311
+Num Write: 890
+Num Hit: 130
+Num Miss: 291
+Total Cycles: 2314
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1312
+Num Write: 891
+Num Hit: 130
+Num Miss: 291
+Total Cycles: 2315
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1313
+Num Write: 891
+Num Hit: 130
+Num Miss: 292
+Total Cycles: 2319
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1314
+Num Write: 892
+Num Hit: 130
+Num Miss: 292
+Total Cycles: 2320
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1315
+Num Write: 892
+Num Hit: 130
+Num Miss: 293
+Total Cycles: 2324
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1316
+Num Write: 893
+Num Hit: 130
+Num Miss: 293
+Total Cycles: 2325
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1317
+Num Write: 893
+Num Hit: 130
+Num Miss: 294
+Total Cycles: 2329
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1318
+Num Write: 894
+Num Hit: 130
+Num Miss: 294
+Total Cycles: 2330
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1319
+Num Write: 894
+Num Hit: 130
+Num Miss: 295
+Total Cycles: 2334
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1320
+Num Write: 895
+Num Hit: 130
+Num Miss: 295
+Total Cycles: 2335
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1321
+Num Write: 895
+Num Hit: 130
+Num Miss: 296
+Total Cycles: 2339
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1322
+Num Write: 896
+Num Hit: 130
+Num Miss: 296
+Total Cycles: 2340
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1323
+Num Write: 896
+Num Hit: 131
+Num Miss: 296
+Total Cycles: 2342
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1324
+Num Write: 896
+Num Hit: 131
+Num Miss: 296
+Total Cycles: 2343
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1324
+Num Write: 896
+Num Hit: 132
+Num Miss: 296
+Total Cycles: 2344
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1325
+Num Write: 896
+Num Hit: 132
+Num Miss: 296
+Total Cycles: 2345
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1325
+Num Write: 896
+Num Hit: 133
+Num Miss: 296
+Total Cycles: 2346
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1326
+Num Write: 896
+Num Hit: 133
+Num Miss: 296
+Total Cycles: 2347
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1326
+Num Write: 896
+Num Hit: 134
+Num Miss: 296
+Total Cycles: 2348
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1327
+Num Write: 896
+Num Hit: 134
+Num Miss: 296
+Total Cycles: 2349
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1327
+Num Write: 896
+Num Hit: 135
+Num Miss: 296
+Total Cycles: 2350
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1328
+Num Write: 896
+Num Hit: 135
+Num Miss: 296
+Total Cycles: 2351
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1328
+Num Write: 896
+Num Hit: 136
+Num Miss: 296
+Total Cycles: 2352
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1329
+Num Write: 896
+Num Hit: 136
+Num Miss: 296
+Total Cycles: 2353
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1329
+Num Write: 896
+Num Hit: 137
+Num Miss: 296
+Total Cycles: 2354
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1330
+Num Write: 896
+Num Hit: 137
+Num Miss: 296
+Total Cycles: 2355
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1330
+Num Write: 896
+Num Hit: 138
+Num Miss: 296
+Total Cycles: 2356
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1331
+Num Write: 896
+Num Hit: 138
+Num Miss: 296
+Total Cycles: 2357
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1331
+Num Write: 896
+Num Hit: 139
+Num Miss: 296
+Total Cycles: 2358
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1332
+Num Write: 896
+Num Hit: 139
+Num Miss: 296
+Total Cycles: 2359
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1332
+Num Write: 896
+Num Hit: 139
+Num Miss: 297
+Total Cycles: 2362
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1333
+Num Write: 897
+Num Hit: 139
+Num Miss: 297
+Total Cycles: 2363
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1334
+Num Write: 897
+Num Hit: 139
+Num Miss: 298
+Total Cycles: 2367
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1335
+Num Write: 898
+Num Hit: 139
+Num Miss: 298
+Total Cycles: 2368
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1336
+Num Write: 898
+Num Hit: 139
+Num Miss: 299
+Total Cycles: 2372
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1337
+Num Write: 899
+Num Hit: 139
+Num Miss: 299
+Total Cycles: 2373
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1338
+Num Write: 899
+Num Hit: 140
+Num Miss: 299
+Total Cycles: 2375
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1339
+Num Write: 899
+Num Hit: 140
+Num Miss: 299
+Total Cycles: 2376
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1339
+Num Write: 899
+Num Hit: 140
+Num Miss: 300
+Total Cycles: 2379
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1340
+Num Write: 900
+Num Hit: 140
+Num Miss: 300
+Total Cycles: 2380
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1341
+Num Write: 900
+Num Hit: 140
+Num Miss: 301
+Total Cycles: 2384
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1342
+Num Write: 901
+Num Hit: 140
+Num Miss: 301
+Total Cycles: 2385
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1343
+Num Write: 901
+Num Hit: 140
+Num Miss: 302
+Total Cycles: 2389
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1344
+Num Write: 902
+Num Hit: 140
+Num Miss: 302
+Total Cycles: 2390
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1345
+Num Write: 902
+Num Hit: 140
+Num Miss: 303
+Total Cycles: 2394
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1346
+Num Write: 903
+Num Hit: 140
+Num Miss: 303
+Total Cycles: 2395
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1347
+Num Write: 903
+Num Hit: 140
+Num Miss: 304
+Total Cycles: 2399
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1348
+Num Write: 904
+Num Hit: 140
+Num Miss: 304
+Total Cycles: 2400
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1349
+Num Write: 904
+Num Hit: 140
+Num Miss: 305
+Total Cycles: 2404
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1350
+Num Write: 905
+Num Hit: 140
+Num Miss: 305
+Total Cycles: 2405
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1351
+Num Write: 905
+Num Hit: 140
+Num Miss: 306
+Total Cycles: 2409
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1352
+Num Write: 906
+Num Hit: 140
+Num Miss: 306
+Total Cycles: 2410
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1353
+Num Write: 906
+Num Hit: 140
+Num Miss: 307
+Total Cycles: 2414
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1354
+Num Write: 907
+Num Hit: 140
+Num Miss: 307
+Total Cycles: 2415
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1355
+Num Write: 907
+Num Hit: 141
+Num Miss: 307
+Total Cycles: 2417
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1356
+Num Write: 907
+Num Hit: 141
+Num Miss: 307
+Total Cycles: 2418
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1356
+Num Write: 907
+Num Hit: 142
+Num Miss: 307
+Total Cycles: 2419
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1357
+Num Write: 907
+Num Hit: 142
+Num Miss: 307
+Total Cycles: 2420
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1357
+Num Write: 907
+Num Hit: 143
+Num Miss: 307
+Total Cycles: 2421
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1358
+Num Write: 907
+Num Hit: 143
+Num Miss: 307
+Total Cycles: 2422
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1358
+Num Write: 907
+Num Hit: 144
+Num Miss: 307
+Total Cycles: 2423
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1359
+Num Write: 907
+Num Hit: 144
+Num Miss: 307
+Total Cycles: 2424
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1359
+Num Write: 907
+Num Hit: 145
+Num Miss: 307
+Total Cycles: 2425
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1360
+Num Write: 907
+Num Hit: 145
+Num Miss: 307
+Total Cycles: 2426
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1360
+Num Write: 907
+Num Hit: 146
+Num Miss: 307
+Total Cycles: 2427
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1361
+Num Write: 907
+Num Hit: 146
+Num Miss: 307
+Total Cycles: 2428
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1361
+Num Write: 907
+Num Hit: 147
+Num Miss: 307
+Total Cycles: 2429
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1362
+Num Write: 907
+Num Hit: 147
+Num Miss: 307
+Total Cycles: 2430
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1362
+Num Write: 907
+Num Hit: 148
+Num Miss: 307
+Total Cycles: 2431
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1363
+Num Write: 907
+Num Hit: 148
+Num Miss: 307
+Total Cycles: 2432
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1363
+Num Write: 907
+Num Hit: 148
+Num Miss: 308
+Total Cycles: 2435
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1364
+Num Write: 908
+Num Hit: 148
+Num Miss: 308
+Total Cycles: 2436
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1365
+Num Write: 908
+Num Hit: 148
+Num Miss: 309
+Total Cycles: 2440
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1366
+Num Write: 909
+Num Hit: 148
+Num Miss: 309
+Total Cycles: 2441
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1367
+Num Write: 909
+Num Hit: 148
+Num Miss: 310
+Total Cycles: 2445
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1368
+Num Write: 910
+Num Hit: 148
+Num Miss: 310
+Total Cycles: 2446
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1369
+Num Write: 910
+Num Hit: 149
+Num Miss: 310
+Total Cycles: 2448
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1370
+Num Write: 910
+Num Hit: 149
+Num Miss: 310
+Total Cycles: 2449
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1370
+Num Write: 910
+Num Hit: 149
+Num Miss: 311
+Total Cycles: 2452
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1371
+Num Write: 911
+Num Hit: 149
+Num Miss: 311
+Total Cycles: 2453
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1372
+Num Write: 911
+Num Hit: 149
+Num Miss: 312
+Total Cycles: 2457
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1373
+Num Write: 912
+Num Hit: 149
+Num Miss: 312
+Total Cycles: 2458
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1374
+Num Write: 912
+Num Hit: 149
+Num Miss: 313
+Total Cycles: 2462
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1375
+Num Write: 913
+Num Hit: 149
+Num Miss: 313
+Total Cycles: 2463
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1376
+Num Write: 913
+Num Hit: 149
+Num Miss: 314
+Total Cycles: 2467
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1377
+Num Write: 914
+Num Hit: 149
+Num Miss: 314
+Total Cycles: 2468
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1378
+Num Write: 914
+Num Hit: 149
+Num Miss: 315
+Total Cycles: 2472
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1379
+Num Write: 915
+Num Hit: 149
+Num Miss: 315
+Total Cycles: 2473
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1380
+Num Write: 915
+Num Hit: 149
+Num Miss: 316
+Total Cycles: 2477
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1381
+Num Write: 916
+Num Hit: 149
+Num Miss: 316
+Total Cycles: 2478
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1382
+Num Write: 916
+Num Hit: 149
+Num Miss: 317
+Total Cycles: 2482
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1383
+Num Write: 917
+Num Hit: 149
+Num Miss: 317
+Total Cycles: 2483
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1384
+Num Write: 917
+Num Hit: 149
+Num Miss: 318
+Total Cycles: 2487
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1385
+Num Write: 918
+Num Hit: 149
+Num Miss: 318
+Total Cycles: 2488
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1386
+Num Write: 918
+Num Hit: 149
+Num Miss: 319
+Total Cycles: 2492
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1387
+Num Write: 919
+Num Hit: 149
+Num Miss: 319
+Total Cycles: 2493
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1388
+Num Write: 919
+Num Hit: 150
+Num Miss: 319
+Total Cycles: 2495
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1389
+Num Write: 919
+Num Hit: 150
+Num Miss: 319
+Total Cycles: 2496
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1389
+Num Write: 919
+Num Hit: 151
+Num Miss: 319
+Total Cycles: 2497
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1390
+Num Write: 919
+Num Hit: 151
+Num Miss: 319
+Total Cycles: 2498
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1390
+Num Write: 919
+Num Hit: 152
+Num Miss: 319
+Total Cycles: 2499
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1391
+Num Write: 919
+Num Hit: 152
+Num Miss: 319
+Total Cycles: 2500
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1391
+Num Write: 919
+Num Hit: 153
+Num Miss: 319
+Total Cycles: 2501
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1392
+Num Write: 919
+Num Hit: 153
+Num Miss: 319
+Total Cycles: 2502
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1392
+Num Write: 919
+Num Hit: 154
+Num Miss: 319
+Total Cycles: 2503
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1393
+Num Write: 919
+Num Hit: 154
+Num Miss: 319
+Total Cycles: 2504
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1393
+Num Write: 919
+Num Hit: 155
+Num Miss: 319
+Total Cycles: 2505
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1394
+Num Write: 919
+Num Hit: 155
+Num Miss: 319
+Total Cycles: 2506
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1394
+Num Write: 919
+Num Hit: 156
+Num Miss: 319
+Total Cycles: 2507
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1395
+Num Write: 919
+Num Hit: 156
+Num Miss: 319
+Total Cycles: 2508
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1395
+Num Write: 919
+Num Hit: 157
+Num Miss: 319
+Total Cycles: 2509
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1396
+Num Write: 919
+Num Hit: 157
+Num Miss: 319
+Total Cycles: 2510
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1396
+Num Write: 919
+Num Hit: 158
+Num Miss: 319
+Total Cycles: 2511
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1397
+Num Write: 919
+Num Hit: 158
+Num Miss: 319
+Total Cycles: 2512
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1397
+Num Write: 919
+Num Hit: 158
+Num Miss: 320
+Total Cycles: 2515
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1398
+Num Write: 920
+Num Hit: 158
+Num Miss: 320
+Total Cycles: 2516
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1399
+Num Write: 920
+Num Hit: 158
+Num Miss: 321
+Total Cycles: 2520
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1400
+Num Write: 921
+Num Hit: 158
+Num Miss: 321
+Total Cycles: 2521
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1401
+Num Write: 921
+Num Hit: 158
+Num Miss: 322
+Total Cycles: 2525
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1402
+Num Write: 922
+Num Hit: 158
+Num Miss: 322
+Total Cycles: 2526
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1403
+Num Write: 922
+Num Hit: 159
+Num Miss: 322
+Total Cycles: 2528
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1404
+Num Write: 922
+Num Hit: 159
+Num Miss: 322
+Total Cycles: 2529
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1404
+Num Write: 922
+Num Hit: 159
+Num Miss: 323
+Total Cycles: 2532
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1405
+Num Write: 923
+Num Hit: 159
+Num Miss: 323
+Total Cycles: 2533
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1406
+Num Write: 923
+Num Hit: 159
+Num Miss: 324
+Total Cycles: 2537
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1407
+Num Write: 924
+Num Hit: 159
+Num Miss: 324
+Total Cycles: 2538
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1408
+Num Write: 924
+Num Hit: 159
+Num Miss: 325
+Total Cycles: 2542
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1409
+Num Write: 925
+Num Hit: 159
+Num Miss: 325
+Total Cycles: 2543
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1410
+Num Write: 925
+Num Hit: 159
+Num Miss: 326
+Total Cycles: 2547
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1411
+Num Write: 926
+Num Hit: 159
+Num Miss: 326
+Total Cycles: 2548
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1412
+Num Write: 926
+Num Hit: 159
+Num Miss: 327
+Total Cycles: 2552
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1413
+Num Write: 927
+Num Hit: 159
+Num Miss: 327
+Total Cycles: 2553
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1414
+Num Write: 927
+Num Hit: 159
+Num Miss: 328
+Total Cycles: 2557
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1415
+Num Write: 928
+Num Hit: 159
+Num Miss: 328
+Total Cycles: 2558
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1416
+Num Write: 928
+Num Hit: 159
+Num Miss: 329
+Total Cycles: 2562
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1417
+Num Write: 929
+Num Hit: 159
+Num Miss: 329
+Total Cycles: 2563
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1418
+Num Write: 929
+Num Hit: 159
+Num Miss: 330
+Total Cycles: 2567
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1419
+Num Write: 930
+Num Hit: 159
+Num Miss: 330
+Total Cycles: 2568
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1420
+Num Write: 930
+Num Hit: 159
+Num Miss: 331
+Total Cycles: 2572
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1421
+Num Write: 931
+Num Hit: 159
+Num Miss: 331
+Total Cycles: 2573
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1422
+Num Write: 931
+Num Hit: 160
+Num Miss: 331
+Total Cycles: 2575
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1423
+Num Write: 931
+Num Hit: 160
+Num Miss: 331
+Total Cycles: 2576
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1423
+Num Write: 931
+Num Hit: 161
+Num Miss: 331
+Total Cycles: 2577
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1424
+Num Write: 931
+Num Hit: 161
+Num Miss: 331
+Total Cycles: 2578
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1424
+Num Write: 931
+Num Hit: 162
+Num Miss: 331
+Total Cycles: 2579
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1425
+Num Write: 931
+Num Hit: 162
+Num Miss: 331
+Total Cycles: 2580
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1425
+Num Write: 931
+Num Hit: 163
+Num Miss: 331
+Total Cycles: 2581
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1426
+Num Write: 931
+Num Hit: 163
+Num Miss: 331
+Total Cycles: 2582
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1426
+Num Write: 931
+Num Hit: 164
+Num Miss: 331
+Total Cycles: 2583
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1427
+Num Write: 931
+Num Hit: 164
+Num Miss: 331
+Total Cycles: 2584
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1427
+Num Write: 931
+Num Hit: 165
+Num Miss: 331
+Total Cycles: 2585
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1428
+Num Write: 931
+Num Hit: 165
+Num Miss: 331
+Total Cycles: 2586
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1428
+Num Write: 931
+Num Hit: 166
+Num Miss: 331
+Total Cycles: 2587
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1429
+Num Write: 931
+Num Hit: 166
+Num Miss: 331
+Total Cycles: 2588
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1429
+Num Write: 931
+Num Hit: 167
+Num Miss: 331
+Total Cycles: 2589
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1430
+Num Write: 931
+Num Hit: 167
+Num Miss: 331
+Total Cycles: 2590
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1430
+Num Write: 931
+Num Hit: 168
+Num Miss: 331
+Total Cycles: 2591
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1431
+Num Write: 931
+Num Hit: 168
+Num Miss: 331
+Total Cycles: 2592
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1431
+Num Write: 931
+Num Hit: 169
+Num Miss: 331
+Total Cycles: 2593
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1432
+Num Write: 931
+Num Hit: 169
+Num Miss: 331
+Total Cycles: 2594
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1432
+Num Write: 931
+Num Hit: 170
+Num Miss: 331
+Total Cycles: 2595
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1433
+Num Write: 931
+Num Hit: 170
+Num Miss: 331
+Total Cycles: 2596
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1433
+Num Write: 931
+Num Hit: 171
+Num Miss: 331
+Total Cycles: 2597
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1434
+Num Write: 931
+Num Hit: 171
+Num Miss: 331
+Total Cycles: 2598
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1434
+Num Write: 931
+Num Hit: 171
+Num Miss: 332
+Total Cycles: 2601
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1435
+Num Write: 932
+Num Hit: 171
+Num Miss: 332
+Total Cycles: 2602
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1436
+Num Write: 932
+Num Hit: 171
+Num Miss: 333
+Total Cycles: 2606
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1437
+Num Write: 933
+Num Hit: 171
+Num Miss: 333
+Total Cycles: 2607
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1438
+Num Write: 933
+Num Hit: 171
+Num Miss: 334
+Total Cycles: 2611
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1439
+Num Write: 934
+Num Hit: 171
+Num Miss: 334
+Total Cycles: 2612
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1440
+Num Write: 934
+Num Hit: 172
+Num Miss: 334
+Total Cycles: 2614
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1441
+Num Write: 934
+Num Hit: 172
+Num Miss: 334
+Total Cycles: 2615
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1441
+Num Write: 934
+Num Hit: 172
+Num Miss: 335
+Total Cycles: 2618
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1442
+Num Write: 935
+Num Hit: 172
+Num Miss: 335
+Total Cycles: 2619
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1443
+Num Write: 935
+Num Hit: 172
+Num Miss: 336
+Total Cycles: 2623
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1444
+Num Write: 936
+Num Hit: 172
+Num Miss: 336
+Total Cycles: 2624
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1445
+Num Write: 936
+Num Hit: 172
+Num Miss: 337
+Total Cycles: 2628
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1446
+Num Write: 937
+Num Hit: 172
+Num Miss: 337
+Total Cycles: 2629
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1447
+Num Write: 937
+Num Hit: 172
+Num Miss: 338
+Total Cycles: 2633
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1448
+Num Write: 938
+Num Hit: 172
+Num Miss: 338
+Total Cycles: 2634
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1449
+Num Write: 938
+Num Hit: 172
+Num Miss: 339
+Total Cycles: 2638
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1450
+Num Write: 939
+Num Hit: 172
+Num Miss: 339
+Total Cycles: 2639
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1451
+Num Write: 939
+Num Hit: 173
+Num Miss: 339
+Total Cycles: 2641
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1452
+Num Write: 939
+Num Hit: 173
+Num Miss: 339
+Total Cycles: 2642
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1452
+Num Write: 939
+Num Hit: 173
+Num Miss: 340
+Total Cycles: 2645
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1453
+Num Write: 940
+Num Hit: 173
+Num Miss: 340
+Total Cycles: 2646
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1454
+Num Write: 940
+Num Hit: 173
+Num Miss: 341
+Total Cycles: 2650
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1455
+Num Write: 941
+Num Hit: 173
+Num Miss: 341
+Total Cycles: 2651
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1456
+Num Write: 941
+Num Hit: 173
+Num Miss: 342
+Total Cycles: 2655
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1457
+Num Write: 942
+Num Hit: 173
+Num Miss: 342
+Total Cycles: 2656
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1458
+Num Write: 942
+Num Hit: 173
+Num Miss: 343
+Total Cycles: 2660
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1459
+Num Write: 943
+Num Hit: 173
+Num Miss: 343
+Total Cycles: 2661
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1460
+Num Write: 943
+Num Hit: 173
+Num Miss: 344
+Total Cycles: 2665
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1461
+Num Write: 944
+Num Hit: 173
+Num Miss: 344
+Total Cycles: 2666
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1462
+Num Write: 944
+Num Hit: 174
+Num Miss: 344
+Total Cycles: 2668
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1463
+Num Write: 944
+Num Hit: 174
+Num Miss: 344
+Total Cycles: 2669
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1463
+Num Write: 944
+Num Hit: 174
+Num Miss: 345
+Total Cycles: 2672
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1464
+Num Write: 945
+Num Hit: 174
+Num Miss: 345
+Total Cycles: 2673
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1465
+Num Write: 945
+Num Hit: 174
+Num Miss: 346
+Total Cycles: 2677
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1466
+Num Write: 946
+Num Hit: 174
+Num Miss: 346
+Total Cycles: 2678
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1467
+Num Write: 946
+Num Hit: 174
+Num Miss: 347
+Total Cycles: 2682
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1468
+Num Write: 947
+Num Hit: 174
+Num Miss: 347
+Total Cycles: 2683
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1469
+Num Write: 947
+Num Hit: 174
+Num Miss: 348
+Total Cycles: 2687
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1470
+Num Write: 948
+Num Hit: 174
+Num Miss: 348
+Total Cycles: 2688
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1471
+Num Write: 948
+Num Hit: 175
+Num Miss: 348
+Total Cycles: 2690
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1472
+Num Write: 948
+Num Hit: 175
+Num Miss: 348
+Total Cycles: 2691
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1472
+Num Write: 948
+Num Hit: 175
+Num Miss: 349
+Total Cycles: 2694
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1473
+Num Write: 949
+Num Hit: 175
+Num Miss: 349
+Total Cycles: 2695
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1474
+Num Write: 949
+Num Hit: 175
+Num Miss: 350
+Total Cycles: 2699
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1475
+Num Write: 950
+Num Hit: 175
+Num Miss: 350
+Total Cycles: 2700
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1476
+Num Write: 950
+Num Hit: 175
+Num Miss: 351
+Total Cycles: 2704
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1477
+Num Write: 951
+Num Hit: 175
+Num Miss: 351
+Total Cycles: 2705
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1478
+Num Write: 951
+Num Hit: 175
+Num Miss: 352
+Total Cycles: 2709
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1479
+Num Write: 952
+Num Hit: 175
+Num Miss: 352
+Total Cycles: 2710
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1480
+Num Write: 952
+Num Hit: 175
+Num Miss: 353
+Total Cycles: 2714
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1481
+Num Write: 953
+Num Hit: 175
+Num Miss: 353
+Total Cycles: 2715
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1482
+Num Write: 953
+Num Hit: 175
+Num Miss: 354
+Total Cycles: 2719
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1483
+Num Write: 954
+Num Hit: 175
+Num Miss: 354
+Total Cycles: 2720
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1484
+Num Write: 954
+Num Hit: 176
+Num Miss: 354
+Total Cycles: 2722
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1485
+Num Write: 954
+Num Hit: 176
+Num Miss: 354
+Total Cycles: 2723
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1485
+Num Write: 954
+Num Hit: 176
+Num Miss: 355
+Total Cycles: 2726
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1486
+Num Write: 955
+Num Hit: 176
+Num Miss: 355
+Total Cycles: 2727
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1487
+Num Write: 955
+Num Hit: 176
+Num Miss: 356
+Total Cycles: 2731
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1488
+Num Write: 956
+Num Hit: 176
+Num Miss: 356
+Total Cycles: 2732
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1489
+Num Write: 956
+Num Hit: 176
+Num Miss: 357
+Total Cycles: 2736
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1490
+Num Write: 957
+Num Hit: 176
+Num Miss: 357
+Total Cycles: 2737
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1491
+Num Write: 957
+Num Hit: 176
+Num Miss: 358
+Total Cycles: 2741
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1492
+Num Write: 958
+Num Hit: 176
+Num Miss: 358
+Total Cycles: 2742
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1493
+Num Write: 958
+Num Hit: 176
+Num Miss: 359
+Total Cycles: 2746
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1494
+Num Write: 959
+Num Hit: 176
+Num Miss: 359
+Total Cycles: 2747
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1495
+Num Write: 959
+Num Hit: 176
+Num Miss: 360
+Total Cycles: 2751
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1496
+Num Write: 960
+Num Hit: 176
+Num Miss: 360
+Total Cycles: 2752
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1497
+Num Write: 960
+Num Hit: 176
+Num Miss: 361
+Total Cycles: 2756
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1498
+Num Write: 961
+Num Hit: 176
+Num Miss: 361
+Total Cycles: 2757
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1499
+Num Write: 961
+Num Hit: 176
+Num Miss: 362
+Total Cycles: 2761
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1500
+Num Write: 962
+Num Hit: 176
+Num Miss: 362
+Total Cycles: 2762
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1501
+Num Write: 962
+Num Hit: 176
+Num Miss: 363
+Total Cycles: 2766
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1502
+Num Write: 963
+Num Hit: 176
+Num Miss: 363
+Total Cycles: 2767
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1503
+Num Write: 963
+Num Hit: 176
+Num Miss: 364
+Total Cycles: 2771
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1504
+Num Write: 964
+Num Hit: 176
+Num Miss: 364
+Total Cycles: 2772
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1505
+Num Write: 964
+Num Hit: 176
+Num Miss: 365
+Total Cycles: 2776
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1506
+Num Write: 965
+Num Hit: 176
+Num Miss: 365
+Total Cycles: 2777
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1507
+Num Write: 965
+Num Hit: 176
+Num Miss: 366
+Total Cycles: 2781
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1508
+Num Write: 966
+Num Hit: 176
+Num Miss: 366
+Total Cycles: 2782
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1509
+Num Write: 966
+Num Hit: 176
+Num Miss: 367
+Total Cycles: 2786
+------ CACHE STATISTICS DONE--------
+-------- CACHE STATISTICS ----------
+Num Read: 1510
+Num Write: 967
+Num Hit: 176
+Num Miss: 367
+Total Cycles: 2787
+------ CACHE STATISTICS DONE--------

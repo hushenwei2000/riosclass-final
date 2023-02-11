@@ -356,7 +356,7 @@ end
 `ifdef COSIM
 import "DPI-C" function void icache_print(input int numRead, input int numWrite, input int numHit, input int numMiss);
 
-always @(req_valid_i) begin
+always @(resp_valid_o) begin
     icache_print(numRead, numWrite, numHit, numMiss);
 end
 `endif

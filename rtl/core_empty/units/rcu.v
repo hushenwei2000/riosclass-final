@@ -549,6 +549,22 @@ counter_rob  #(
     .cnt_end(iss_rob_line_end)
 );
 
+reg [31:0] total_cycles;
+reg [31:0] total_instructions;
+ 
+always @(posedge clk) begin
+    if (reset) begin
+        total_cycles <= 0;
+        total_instructions <= 0;
+    end else begin
+        total_cycles <= total_cycles + 1;
+    end
+    if (rob_cm_valid) begin
+        total_instructions <= total_instructions + 1;
+        $display("total_cycles %d  total_instructions  %d", total_cycles, total_instructions);
+    end
+end 
+
 assign rob_iss_line_switch = rob_iss_is | rob_iss_skip;
 
 `ifdef COSIM
