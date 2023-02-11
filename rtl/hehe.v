@@ -113,12 +113,19 @@ wire [7:0] icache_tag_index;
 wire [31:0] icache_tag_data_in;
 wire [31:0] icache_tag_out;    
     //icache_data
-wire icache_data_chip_en;    
-wire icache_data_write_en;
-wire [3:0] icache_write_data_mask;
-wire [7:0] icache_data_index;
-wire [31:0] icache_data_in;
-wire [31:0] icache_data_out;
+wire icache_data_chip_en_0;    
+wire icache_data_write_en_0;
+wire [3:0] icache_write_data_mask_0;
+wire [7:0] icache_data_index_0;
+wire [31:0] icache_data_in_0;
+wire [31:0] icache_data_out_0;
+
+wire icache_data_chip_en_1;    
+wire icache_data_write_en_1;
+wire [3:0] icache_write_data_mask_1;
+wire [7:0] icache_data_index_1;
+wire [31:0] icache_data_in_1;
+wire [31:0] icache_data_out_1;
 //dcache
     //dcache_tag
 wire dcache_tag_chip_en;
@@ -221,12 +228,20 @@ l1icache_u
     .tag_index (icache_tag_index),
     .tag_data_in (icache_tag_data_in),
     .tag_out (icache_tag_out),
-    .data_chip_en (icache_data_chip_en),
-    .data_write_en (icache_data_write_en),
-    .write_data_mask (icache_write_data_mask),
-    .data_index (icache_data_index),
-    .data_in (icache_data_in),
-    .data_out (icache_data_out),
+
+    .data_chip_en_0 (icache_data_chip_en_0),
+    .data_write_en_0 (icache_data_write_en_0),
+    .write_data_mask_0 (icache_write_data_mask_0),
+    .data_index_0 (icache_data_index_0),
+    .data_in_0 (icache_data_in_0),
+    .data_out_0 (icache_data_out_0),
+
+    .data_chip_en_1 (icache_data_chip_en_1),
+    .data_write_en_1 (icache_data_write_en_1),
+    .write_data_mask_1 (icache_write_data_mask_1),
+    .data_index_1 (icache_data_index_1),
+    .data_in_1 (icache_data_in_1),
+    .data_out_1 (icache_data_out_1),
 
     .wb_cyc_o (m3_wbd_cyc_o),
     .wb_stb_o (m3_wbd_stb_o),
@@ -355,18 +370,35 @@ sky130_sram_1kbyte_1rw1r_32x256_8  icache_tag_ram (
                             .dout1 (data_dout1));  
 
 
-sky130_sram_1kbyte_1rw1r_32x256_8  icache_data_ram (
+sky130_sram_1kbyte_1rw1r_32x256_8  icache_data_ram_0 (
     `ifdef USE_POWER_PINS
             .vccd1(vccd1),  // User area 1 1.8V power
             .vssd1(vssd1),  // User area 1 digital ground
     `endif
     						.clk0   (clk),
-                            .csb0   (icache_data_chip_en),
-                            .web0   (icache_data_write_en),
-                            .wmask0 (icache_write_data_mask),
-                            .addr0  (icache_data_index),
-                            .din0   (icache_data_in),
-                            .dout0  (icache_data_out),
+                            .csb0   (icache_data_chip_en_0),
+                            .web0   (icache_data_write_en_0),
+                            .wmask0 (icache_write_data_mask_0),
+                            .addr0  (icache_data_index_0),
+                            .din0   (icache_data_in_0),
+                            .dout0  (icache_data_out_0),
+                            .clk1 (clk),
+                            .csb1 (okk1),
+                            .addr1 (okk0),
+                            .dout1 (data_dout1));  
+
+sky130_sram_1kbyte_1rw1r_32x256_8  icache_data_ram_1 (
+    `ifdef USE_POWER_PINS
+            .vccd1(vccd1),  // User area 1 1.8V power
+            .vssd1(vssd1),  // User area 1 digital ground
+    `endif
+    						.clk0   (clk),
+                            .csb0   (icache_data_chip_en_1),
+                            .web0   (icache_data_write_en_1),
+                            .wmask0 (icache_write_data_mask_1),
+                            .addr0  (icache_data_index_1),
+                            .din0   (icache_data_in_1),
+                            .dout0  (icache_data_out_1),
                             .clk1 (clk),
                             .csb1 (okk1),
                             .addr1 (okk0),
