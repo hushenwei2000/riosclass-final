@@ -5,10 +5,15 @@
  */
 
 #include "Cache.hpp"
-
+#include "parameters.hpp"
 #include <cstdio>
 #include <cstdlib>
+#include <iostream>
 
+extern ofstream cache_performance_file;
+extern char * hexfile;
+
+long long icache_latency;
 Cache::Cache(Memory *memory, Policy policy, FILE* f, Cache *lowerCache,
              bool writeBack, bool writeAllocate) {
   this->referenceCounter = 0;
@@ -59,9 +64,11 @@ std::string Cache::getByte(uint32_t addr, uint32_t *cycles) {
   // If in cache, return directly
   int blockId;
   if ((blockId = this->getBlockId(addr)) != -1) {
+    
     fprintf(this->logFile, "Hit: %08X\n", addr);
     uint32_t offset = this->getOffset(addr);
-    if (addr % 4 == 3) this->statistics.numHit++;
+    if (addr % 4 == 3) 
+      {this->statistics.numHit++; icache_latency = 2;}
     this->statistics.totalCycles += this->policy.hitLatency;
     this->blocks[blockId].lastReference = this->referenceCounter;
     if (cycles) *cycles = this->policy.hitLatency;
@@ -69,7 +76,8 @@ std::string Cache::getByte(uint32_t addr, uint32_t *cycles) {
   }
 
   // Else, find the data in memory or other level of cache
-  if (addr % 4 == 3) this->statistics.numMiss++;
+  if (addr % 4 == 3) 
+    {this->statistics.numMiss++; icache_latency = 8;}
   this->statistics.totalCycles += this->policy.missLatency;
   this->loadBlockFromLowerLevel(addr, cycles);
 
@@ -162,7 +170,7 @@ void Cache::printStatistics() {
   fprintf(this->logFile, "Num Write: %d\n", this->statistics.numWrite / 4);
   fprintf(this->logFile, "Num Hit: %d\n", this->statistics.numHit);
   fprintf(this->logFile, "Num Miss: %d\n", this->statistics.numMiss);
-  fprintf(this->logFile, "Total Cycles: %llu\n", this->statistics.totalCycles);
+  fprintf(this->logFile, "Total Cycles: %llu\n", this->statistics.totalCycles / 4);
   if (this->lowerCache != nullptr) {
     fprintf(this->logFile, "---------- LOWER CACHE ----------\n");
     this->lowerCache->printStatistics();

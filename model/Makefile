@@ -1,3 +1,27 @@
+isa_tests = add addi \
+	and andi \
+	auipc \
+	beq bge bgeu blt bltu bne \
+	fence_i \
+	jal jalr \
+	lb lbu lh lhu lw \
+	lui \
+	or ori \
+	sb sh sw \
+	sll slli \
+	slt slti sltiu sltu \
+	sra srai \
+	srl srli \
+	sub \
+	xor xori \
+
+isa_tests_wit_pre = $(addprefix /work/stu/dyzhang/projects/riosclass-final/test/hex/rv64ui/, $(isa_tests))
+isa_tests_full_path = $(addsuffix .hex, $(isa_tests_wit_pre))
+
+# test:
+# 	echo $(isa_tests_wit_pre)
+# 	echo $(isa_tests_full_path)
+
 Utils: Utils.hpp Utils.cpp
 	g++ -c Utils.cpp -I "./"
 PRegFile: PRegFile.hpp PRegFile.cpp
@@ -32,6 +56,8 @@ main: Utils PRegFile Memory Cache ICache Decode Rename BTB GShare ROB InsBuffer 
 	g++ -c main.cpp Utils.cpp PRegFile.cpp Memory.cpp Cache.cpp ICache.cpp Decode.cpp BTB.cpp GShare.cpp ROB.cpp InsBuffer.cpp Issue.cpp ALU.cpp LSU.cpp CSR.cpp  -I "./"
 model: main Utils PRegFile Memory Cache ICache Decode Rename BTB GShare ROB InsBuffer Issue ALU LSU CSR
 	g++ Utils.o PRegFile.o Memory.o Cache.o ICache.o Decode.o Rename.o BTB.o GShare.o ROB.o InsBuffer.o Issue.o ALU.o LSU.o CSR.o main.o  -I "./" -o model.o
-	./model.o > log
+
+run: model
+	./model.o /work/stu/dyzhang/projects/riosclass-final/test/hex/rv64ui/add.hex  > log
 clean: 
 	rm -rf *.o *.out

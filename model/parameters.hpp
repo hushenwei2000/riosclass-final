@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 #include <array>
+#include <fstream>
 
 // PARAM
 #define Maxcycle 2200
@@ -107,3 +108,6 @@ struct ROB_LINE_S
 
 // Global
 extern long long cycle;
+extern long long icache_latency;
+extern std::ofstream cache_performance_file;
+extern char * hexfile;

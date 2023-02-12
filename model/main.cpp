@@ -18,6 +18,8 @@
 #include "Utils.hpp"
 
 using namespace std;
+char * hexfile;
+ofstream cache_performance_file("cache_performance.csv", ofstream::app);
 
 ALU* alu_obj;
 BTB* btb_obj;
@@ -64,13 +66,12 @@ void RESET() {
   pc = RESET_VECTOR;
 }
 
-void READ_ELF() {
+void READ_ELF( char * elfPath) {
   cout << "READ_ELF" << endl;
   ifstream hexfile;
   int ins_line = 0;
   char* buffer = new char[999999];
-  hexfile.open("/work/stu/swhu/projects/riosclass_template2/verilog/dv/isa/build/hex/rv64ui/add.hex",
-               ios::in);  // 0-46 47 48 49-95 96 97
+  hexfile.open(elfPath, ios::in);  // 0-46 47 48 49-95 96 97
   hexfile.seekg(0, std::ios::end);
   int fileLength = hexfile.tellg();
   hexfile.seekg(0, std::ios::beg);
@@ -238,7 +239,14 @@ void print_commit_log() {
   fprintf(Commit_Log_File, "Alu_Update_Prf: core 0: 0x00000000%08X     x%d <- %016lX\n", rob_obj->rob[alu_obj->alu.rob_index].basic_pc, alu_obj->alu.basic_rename_rd, alu_obj->alu.alu_result);
 }
 
-int main() {
+int main(int argc, char * argv[]) {
+  if (argc != 2){
+    printf("Please input hex file name as parameter");
+    return 1;
+  }
+  
+  char * elfPath = argv[1];
+  hexfile = elfPath;
   cycle = 0;
   Issue_Log_File = fopen("cosim-issue.log", "w+");
   Cache_Log_File = fopen("cosim-cache.log", "w+");
@@ -258,13 +266,13 @@ int main() {
   l1Policy.blockSize = 4;
   l1Policy.blockNum = l1Policy.cacheSize / l1Policy.blockSize;
   l1Policy.associativity = 1;
-  l1Policy.hitLatency = 0;
+  l1Policy.hitLatency = 2;
   l1Policy.missLatency = 8;
   icache_obj = new ICache(memory_obj, l1Policy, Cache_Log_File);
   pRegFile_obj = new PRegFile();
   rename_obj = new Rename();
   rob_obj = new ROB();
-  READ_ELF();
+  READ_ELF(elfPath);
   RESET();
   for (int i = 0; i < Maxcycle; i++) {
     cout << "cycle ========================" << cycle << endl;
@@ -287,13 +295,21 @@ int main() {
       }
     }
 
-    if (cycle == icache_obj->icache_current_cycle + ICACHE_DELAY) {
+    if (cycle == icache_obj->icache_current_cycle + icache_latency ) {
+      cout << "icache_latency" << icache_latency << endl;
       cout << "fetch ins from icache " << icache_obj->ins_from_icache << endl;
       icache_obj->icache_to_ins_buffer = Utils::toIntBigEndian(icache_obj->ins_from_icache, 32);
       icache_obj->icache_ins_buffer_current_cycle = cycle;
       icache_obj->icache_to_ins_buffer_pc = icache_obj->ins_pc;
       if (icache_obj->ins_pc == 64) {
         cout << "pass" << endl;
+        long long numHit, numMiss;
+        numHit = icache_obj->statistics.numHit;
+        numMiss = icache_obj->statistics.numMiss;
+        printf("numHit: %d, numMIss:%d\n", numHit, numMiss );
+        double ipc =1.0 *  (icache_obj->statistics.numHit + icache_obj->statistics.numMiss) / cycle;
+        cache_performance_file << hexfile << "," << ipc << std::endl;
+        cache_performance_file.close();
         return 0;
       }
     }
@@ -430,7 +446,12 @@ int main() {
 
     cycle++;
   }
-
+  long long numHit, numMiss;
+  numHit = icache_obj->statistics.numHit;
+  numMiss = icache_obj->statistics.numMiss;
+  double ipc =1.0 *  (icache_obj->statistics.numHit + icache_obj->statistics.numMiss) / cycle;
+  cache_performance_file << hexfile << "," << ipc << std::endl;
+  cache_performance_file.close();
   fclose(Issue_Log_File);
   return 0;
 }
